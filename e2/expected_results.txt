@@ -1,0 +1,88 @@
+Alabama,110554,3309
+Top One
+New York,5796756,282999
+
+Top Three
+New York,5796756,282999
+New Jersey,1930397,83432
+Massachusetts,831374,33172
+
+Top Five
+New York,5796756,282999
+New Jersey,1930397,83432
+Massachusetts,831374,33172
+California,775044,25381
+Michigan,735570,49446
+
+Top Ten
+New York,5796756,282999
+New Jersey,1930397,83432
+Massachusetts,831374,33172
+California,775044,25381
+Michigan,735570,49446
+Pennsylvania,706811,23713
+Illinois,684201,26375
+Florida,607035,16328
+Louisiana,571128,28117
+Texas,430567,10191
+
+All States
+New York,5796756,282999
+New Jersey,1930397,83432
+Massachusetts,831374,33172
+California,775044,25381
+Michigan,735570,49446
+Pennsylvania,706811,23713
+Illinois,684201,26375
+Florida,607035,16328
+Louisiana,571128,28117
+Texas,430567,10191
+Georgia,402120,15519
+Connecticut,401031,23521
+Washington,329527,16889
+Maryland,272415,9687
+Indiana,248078,11494
+Ohio,247170,10025
+Colorado,238505,9786
+Virginia,185754,5669
+Tennessee,169402,3291
+North Carolina,147008,3722
+Missouri,128699,4142
+Arizona,113731,4063
+Alabama,110554,3309
+Wisconsin,108452,4612
+South Carolina,101859,2741
+Rhode Island,97379,2720
+Mississippi,95788,3310
+Nevada,89751,3447
+Utah,74355,606
+Iowa,66152,1527
+Kentucky,64589,3266
+District of Columbia,61450,2073
+Oklahoma,60457,3150
+Minnesota,55784,2902
+Delaware,55403,1438
+Arkansas,47925,866
+Oregon,47759,1655
+Kansas,46168,1909
+New Mexico,41815,1143
+Idaho,40748,949
+Nebraska,34935,692
+New Hampshire,32817,828
+South Dakota,29809,193
+Puerto Rico,24597,1079
+Maine,21277,700
+Vermont,20418,928
+West Virginia,18843,396
+Guam,17917,149
+Hawaii,14646,227
+North Dakota,12522,248
+Montana,11382,245
+Wyoming,8136,61
+Alaska,8028,159
+Virgin Islands,1548,45
+Northern Mariana Islands,321,48
+
+  	 	 	 	 	 	 	 	 	 	 	 	 
+  	 	 	 	 	 	 	 	 	 	 	 	 
+  	 	 	 	 	 	 	 	 	 	 	 	 

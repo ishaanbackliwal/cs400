@@ -1,0 +1,3095 @@
+recordID,state,cases,deaths
+d100001,Washington,1,0
+d100002,Washington,1,0
+d100003,Washington,1,0
+d100004,Illinois,1,0
+d100005,Washington,1,0
+d100006,California,1,0
+d100007,Illinois,1,0
+d100008,Washington,1,0
+d100009,Arizona,1,0
+d100010,California,2,0
+d100011,Illinois,1,0
+d100012,Washington,1,0
+d100013,Arizona,1,0
+d100014,California,2,0
+d100015,Illinois,1,0
+d100016,Washington,1,0
+d100017,Arizona,1,0
+d100018,California,2,0
+d100019,Illinois,1,0
+d100020,Washington,1,0
+d100021,Arizona,1,0
+d100022,California,2,0
+d100023,Illinois,1,0
+d100024,Washington,1,0
+d100025,Arizona,1,0
+d100026,California,2,0
+d100027,Illinois,2,0
+d100028,Washington,1,0
+d100029,Arizona,1,0
+d100030,California,3,0
+d100031,Illinois,2,0
+d100032,Washington,1,0
+d100033,Arizona,1,0
+d100034,California,3,0
+d100035,Illinois,2,0
+d100036,Massachusetts,1,0
+d100037,Washington,1,0
+d100038,Arizona,1,0
+d100039,California,6,0
+d100040,Illinois,2,0
+d100041,Massachusetts,1,0
+d100042,Washington,1,0
+d100043,Arizona,1,0
+d100044,California,6,0
+d100045,Illinois,2,0
+d100046,Massachusetts,1,0
+d100047,Washington,1,0
+d100048,Arizona,1,0
+d100049,California,6,0
+d100050,Illinois,2,0
+d100051,Massachusetts,1,0
+d100052,Washington,1,0
+d100053,Arizona,1,0
+d100054,California,6,0
+d100055,Illinois,2,0
+d100056,Massachusetts,1,0
+d100057,Washington,1,0
+d100058,Wisconsin,1,0
+d100059,Arizona,1,0
+d100060,California,6,0
+d100061,Illinois,2,0
+d100062,Massachusetts,1,0
+d100063,Washington,1,0
+d100064,Wisconsin,1,0
+d100065,Arizona,1,0
+d100066,California,6,0
+d100067,Illinois,2,0
+d100068,Massachusetts,1,0
+d100069,Washington,1,0
+d100070,Wisconsin,1,0
+d100071,Arizona,1,0
+d100072,California,6,0
+d100073,Illinois,2,0
+d100074,Massachusetts,1,0
+d100075,Washington,1,0
+d100076,Wisconsin,1,0
+d100077,Arizona,1,0
+d100078,California,6,0
+d100079,Illinois,2,0
+d100080,Massachusetts,1,0
+d100081,Washington,1,0
+d100082,Wisconsin,1,0
+d100083,Arizona,1,0
+d100084,California,7,0
+d100085,Illinois,2,0
+d100086,Massachusetts,1,0
+d100087,Washington,1,0
+d100088,Wisconsin,1,0
+d100089,Arizona,1,0
+d100090,California,7,0
+d100091,Illinois,2,0
+d100092,Massachusetts,1,0
+d100093,Washington,1,0
+d100094,Wisconsin,1,0
+d100095,Arizona,1,0
+d100096,California,7,0
+d100097,Illinois,2,0
+d100098,Massachusetts,1,0
+d100099,Texas,1,0
+d100100,Washington,1,0
+d100101,Wisconsin,1,0
+d100102,Arizona,1,0
+d100103,California,7,0
+d100104,Illinois,2,0
+d100105,Massachusetts,1,0
+d100106,Texas,2,0
+d100107,Washington,1,0
+d100108,Wisconsin,1,0
+d100109,Arizona,1,0
+d100110,California,7,0
+d100111,Illinois,2,0
+d100112,Massachusetts,1,0
+d100113,Texas,2,0
+d100114,Washington,1,0
+d100115,Wisconsin,1,0
+d100116,Arizona,1,0
+d100117,California,7,0
+d100118,Illinois,2,0
+d100119,Massachusetts,1,0
+d100120,Texas,2,0
+d100121,Washington,1,0
+d100122,Wisconsin,1,0
+d100123,Arizona,1,0
+d100124,California,7,0
+d100125,Illinois,2,0
+d100126,Massachusetts,1,0
+d100127,Texas,2,0
+d100128,Washington,1,0
+d100129,Wisconsin,1,0
+d100130,Arizona,1,0
+d100131,California,7,0
+d100132,Illinois,2,0
+d100133,Massachusetts,1,0
+d100134,Nebraska,10,0
+d100135,Texas,2,0
+d100136,Washington,1,0
+d100137,Wisconsin,1,0
+d100138,Arizona,1,0
+d100139,California,7,0
+d100140,Illinois,2,0
+d100141,Massachusetts,1,0
+d100142,Nebraska,10,0
+d100143,Texas,2,0
+d100144,Washington,1,0
+d100145,Wisconsin,1,0
+d100146,Arizona,1,0
+d100147,California,7,0
+d100148,Illinois,2,0
+d100149,Massachusetts,1,0
+d100150,Nebraska,10,0
+d100151,Texas,2,0
+d100152,Washington,1,0
+d100153,Wisconsin,1,0
+d100154,Arizona,1,0
+d100155,California,8,0
+d100156,Illinois,2,0
+d100157,Massachusetts,1,0
+d100158,Nebraska,11,0
+d100159,Texas,2,0
+d100160,Washington,1,0
+d100161,Wisconsin,1,0
+d100162,Arizona,1,0
+d100163,California,9,0
+d100164,Illinois,2,0
+d100165,Massachusetts,1,0
+d100166,Nebraska,11,0
+d100167,Texas,4,0
+d100168,Washington,1,0
+d100169,Wisconsin,1,0
+d100170,Arizona,1,0
+d100171,California,9,0
+d100172,Illinois,2,0
+d100173,Massachusetts,1,0
+d100174,Nebraska,11,0
+d100175,Texas,4,0
+d100176,Washington,1,0
+d100177,Wisconsin,1,0
+d100178,Arizona,1,0
+d100179,California,9,0
+d100180,Illinois,2,0
+d100181,Massachusetts,1,0
+d100182,Nebraska,11,0
+d100183,Texas,4,0
+d100184,Washington,1,0
+d100185,Wisconsin,1,0
+d100186,Arizona,1,0
+d100187,California,11,0
+d100188,Illinois,2,0
+d100189,Massachusetts,1,0
+d100190,Nebraska,12,0
+d100191,Texas,10,0
+d100192,Washington,5,0
+d100193,Wisconsin,1,0
+d100194,Arizona,1,0
+d100195,California,11,0
+d100196,Illinois,2,0
+d100197,Massachusetts,1,0
+d100198,Nebraska,13,0
+d100199,Texas,10,0
+d100200,Utah,1,0
+d100201,Washington,5,0
+d100202,Wisconsin,1,0
+d100203,Arizona,1,0
+d100204,California,26,0
+d100205,Illinois,2,0
+d100206,Massachusetts,1,0
+d100207,Nebraska,13,0
+d100208,Texas,10,0
+d100209,Utah,1,0
+d100210,Washington,5,0
+d100211,Wisconsin,1,0
+d100212,Arizona,1,0
+d100213,California,26,0
+d100214,Illinois,2,0
+d100215,Massachusetts,1,0
+d100216,Nebraska,13,0
+d100217,Texas,10,0
+d100218,Utah,1,0
+d100219,Washington,5,0
+d100220,Wisconsin,1,0
+d100221,Arizona,1,0
+d100222,California,27,0
+d100223,Illinois,2,0
+d100224,Massachusetts,1,0
+d100225,Nebraska,13,0
+d100226,Oregon,1,0
+d100227,Texas,11,0
+d100228,Utah,1,0
+d100229,Washington,7,0
+d100230,Wisconsin,1,0
+d100231,Arizona,1,0
+d100232,California,28,0
+d100233,Illinois,3,0
+d100234,Massachusetts,1,0
+d100235,Nebraska,13,0
+d100236,Oregon,1,0
+d100237,Texas,11,0
+d100238,Utah,1,0
+d100239,Washington,10,1
+d100240,Wisconsin,1,0
+d100241,Arizona,1,0
+d100242,California,33,0
+d100243,Florida,2,0
+d100244,Illinois,3,0
+d100245,Massachusetts,1,0
+d100246,Nebraska,13,0
+d100247,New York,1,0
+d100248,Oregon,2,0
+d100249,Rhode Island,2,0
+d100250,Texas,11,0
+d100251,Utah,1,0
+d100252,Washington,17,3
+d100253,Wisconsin,1,0
+d100254,Arizona,1,0
+d100255,California,38,0
+d100256,Florida,2,0
+d100257,Georgia,2,0
+d100258,Illinois,4,0
+d100259,Massachusetts,2,0
+d100260,Nebraska,13,0
+d100261,New Hampshire,1,0
+d100262,New York,1,0
+d100263,Oregon,2,0
+d100264,Rhode Island,2,0
+d100265,Texas,11,0
+d100266,Utah,1,0
+d100267,Washington,23,6
+d100268,Wisconsin,1,0
+d100269,Arizona,2,0
+d100270,California,45,0
+d100271,Florida,3,0
+d100272,Georgia,2,0
+d100273,Illinois,4,0
+d100274,Massachusetts,2,0
+d100275,Nebraska,13,0
+d100276,New Hampshire,2,0
+d100277,New York,2,0
+d100278,North Carolina,1,0
+d100279,Oregon,2,0
+d100280,Rhode Island,2,0
+d100281,Texas,11,0
+d100282,Utah,1,0
+d100283,Washington,32,10
+d100284,Wisconsin,1,0
+d100285,Arizona,2,0
+d100286,California,55,1
+d100287,Florida,3,0
+d100288,Georgia,2,0
+d100289,Illinois,4,0
+d100290,Massachusetts,2,0
+d100291,Nebraska,13,0
+d100292,New Hampshire,2,0
+d100293,New Jersey,1,0
+d100294,New York,11,0
+d100295,North Carolina,1,0
+d100296,Oregon,2,0
+d100297,Rhode Island,2,0
+d100298,Texas,12,0
+d100299,Utah,1,0
+d100300,Washington,47,11
+d100301,Wisconsin,1,0
+d100302,Arizona,2,0
+d100303,California,67,1
+d100304,Colorado,2,0
+d100305,Florida,4,0
+d100306,Georgia,2,0
+d100307,Illinois,5,0
+d100308,Maryland,3,0
+d100309,Massachusetts,3,0
+d100310,Nebraska,13,0
+d100311,Nevada,2,0
+d100312,New Hampshire,2,0
+d100313,New Jersey,2,0
+d100314,New York,22,0
+d100315,North Carolina,1,0
+d100316,Oregon,2,0
+d100317,Rhode Island,2,0
+d100318,Tennessee,1,0
+d100319,Texas,16,0
+d100320,Utah,1,0
+d100321,Washington,75,11
+d100322,Wisconsin,1,0
+d100323,Arizona,3,0
+d100324,California,81,1
+d100325,Colorado,8,0
+d100326,Florida,7,2
+d100327,Georgia,3,0
+d100328,Hawaii,1,0
+d100329,Illinois,6,0
+d100330,Indiana,1,0
+d100331,Kentucky,1,0
+d100332,Maryland,3,0
+d100333,Massachusetts,8,0
+d100334,Minnesota,1,0
+d100335,Nebraska,14,0
+d100336,Nevada,2,0
+d100337,New Hampshire,2,0
+d100338,New Jersey,4,0
+d100339,New York,44,0
+d100340,North Carolina,2,0
+d100341,Oklahoma,1,0
+d100342,Oregon,2,0
+d100343,Pennsylvania,2,0
+d100344,Rhode Island,3,0
+d100345,South Carolina,2,0
+d100346,Tennessee,1,0
+d100347,Texas,19,0
+d100348,Utah,3,0
+d100349,Washington,86,12
+d100350,Wisconsin,1,0
+d100351,Arizona,5,0
+d100352,California,100,1
+d100353,Colorado,8,0
+d100354,District of Columbia,1,0
+d100355,Florida,12,2
+d100356,Georgia,7,0
+d100357,Hawaii,1,0
+d100358,Illinois,6,0
+d100359,Indiana,1,0
+d100360,Kansas,1,0
+d100361,Kentucky,1,0
+d100362,Maryland,3,0
+d100363,Massachusetts,13,0
+d100364,Minnesota,1,0
+d100365,Missouri,1,0
+d100366,Nebraska,14,0
+d100367,Nevada,2,0
+d100368,New Hampshire,4,0
+d100369,New Jersey,4,0
+d100370,New York,89,0
+d100371,North Carolina,2,0
+d100372,Oklahoma,1,0
+d100373,Oregon,6,0
+d100374,Pennsylvania,4,0
+d100375,Rhode Island,3,0
+d100376,South Carolina,2,0
+d100377,Tennessee,1,0
+d100378,Texas,19,0
+d100379,Utah,3,0
+d100380,Vermont,1,0
+d100381,Virginia,1,0
+d100382,Washington,110,16
+d100383,Wisconsin,1,0
+d100384,Arizona,5,0
+d100385,California,112,1
+d100386,Colorado,8,0
+d100387,Connecticut,1,0
+d100388,District of Columbia,1,0
+d100389,Florida,13,2
+d100390,Georgia,11,0
+d100391,Hawaii,2,0
+d100392,Illinois,7,0
+d100393,Indiana,2,0
+d100394,Iowa,3,0
+d100395,Kansas,1,0
+d100396,Kentucky,4,0
+d100397,Maryland,5,0
+d100398,Massachusetts,28,0
+d100399,Minnesota,2,0
+d100400,Missouri,1,0
+d100401,Nebraska,16,0
+d100402,Nevada,4,0
+d100403,New Hampshire,4,0
+d100404,New Jersey,6,0
+d100405,New York,106,0
+d100406,North Carolina,2,0
+d100407,Oklahoma,1,0
+d100408,Oregon,13,0
+d100409,Pennsylvania,6,0
+d100410,Rhode Island,3,0
+d100411,South Carolina,6,0
+d100412,Tennessee,3,0
+d100413,Texas,23,0
+d100414,Utah,3,0
+d100415,Vermont,1,0
+d100416,Virginia,2,0
+d100417,Washington,141,19
+d100418,Wisconsin,1,0
+d100419,Arizona,6,0
+d100420,California,172,2
+d100421,Colorado,12,0
+d100422,Connecticut,2,0
+d100423,District of Columbia,4,0
+d100424,Florida,14,2
+d100425,Georgia,17,0
+d100426,Hawaii,2,0
+d100427,Illinois,11,0
+d100428,Indiana,4,0
+d100429,Iowa,8,0
+d100430,Kansas,1,0
+d100431,Kentucky,5,0
+d100432,Louisiana,1,0
+d100433,Maryland,6,0
+d100434,Massachusetts,41,0
+d100435,Minnesota,2,0
+d100436,Missouri,1,0
+d100437,Nebraska,16,0
+d100438,Nevada,4,0
+d100439,New Hampshire,4,0
+d100440,New Jersey,11,0
+d100441,New York,142,0
+d100442,North Carolina,7,0
+d100443,Ohio,3,0
+d100444,Oklahoma,1,0
+d100445,Oregon,13,0
+d100446,Pennsylvania,10,0
+d100447,Rhode Island,3,0
+d100448,South Carolina,7,0
+d100449,Tennessee,4,0
+d100450,Texas,24,0
+d100451,Utah,3,0
+d100452,Vermont,1,0
+d100453,Virginia,5,0
+d100454,Washington,179,22
+d100455,Wisconsin,2,0
+d100456,Arizona,6,0
+d100457,California,179,3
+d100458,Colorado,17,0
+d100459,Connecticut,2,0
+d100460,District of Columbia,4,0
+d100461,Florida,23,2
+d100462,Georgia,22,0
+d100463,Hawaii,2,0
+d100464,Illinois,19,0
+d100465,Indiana,6,0
+d100466,Iowa,13,0
+d100467,Kansas,1,0
+d100468,Kentucky,7,0
+d100469,Louisiana,6,0
+d100470,Maryland,9,0
+d100471,Massachusetts,92,0
+d100472,Michigan,2,0
+d100473,Minnesota,3,0
+d100474,Missouri,1,0
+d100475,Nebraska,17,0
+d100476,Nevada,4,0
+d100477,New Hampshire,5,0
+d100478,New Jersey,15,1
+d100479,New York,173,0
+d100480,North Carolina,7,0
+d100481,Ohio,3,0
+d100482,Oklahoma,2,0
+d100483,Oregon,14,0
+d100484,Pennsylvania,12,0
+d100485,Rhode Island,5,0
+d100486,South Carolina,9,0
+d100487,South Dakota,5,1
+d100488,Tennessee,7,0
+d100489,Texas,31,0
+d100490,Utah,4,0
+d100491,Vermont,1,0
+d100492,Virginia,8,0
+d100493,Washington,279,24
+d100494,Wisconsin,3,0
+d100495,Arizona,9,0
+d100496,Arkansas,1,0
+d100497,California,202,4
+d100498,Colorado,34,0
+d100499,Connecticut,3,0
+d100500,Delaware,1,0
+d100501,District of Columbia,10,0
+d100502,Florida,26,2
+d100503,Georgia,31,0
+d100504,Hawaii,2,0
+d100505,Illinois,25,0
+d100506,Indiana,11,0
+d100507,Iowa,14,0
+d100508,Kansas,1,0
+d100509,Kentucky,7,0
+d100510,Louisiana,13,0
+d100511,Maryland,13,0
+d100512,Massachusetts,95,0
+d100513,Michigan,2,0
+d100514,Minnesota,5,0
+d100515,Mississippi,1,0
+d100516,Missouri,1,0
+d100517,Nebraska,23,0
+d100518,Nevada,7,0
+d100519,New Hampshire,5,0
+d100520,New Jersey,23,1
+d100521,New Mexico,4,0
+d100522,New York,217,0
+d100523,North Carolina,8,0
+d100524,North Dakota,1,0
+d100525,Ohio,4,0
+d100526,Oklahoma,2,0
+d100527,Oregon,20,0
+d100528,Pennsylvania,16,0
+d100529,Rhode Island,5,0
+d100530,South Carolina,10,0
+d100531,South Dakota,8,1
+d100532,Tennessee,8,0
+d100533,Texas,33,0
+d100534,Utah,5,0
+d100535,Vermont,2,0
+d100536,Virginia,10,0
+d100537,Washington,338,29
+d100538,Wisconsin,6,0
+d100539,Wyoming,1,0
+d100540,Alaska,1,0
+d100541,Arizona,9,0
+d100542,Arkansas,6,0
+d100543,California,252,4
+d100544,Colorado,49,1
+d100545,Connecticut,6,0
+d100546,Delaware,4,0
+d100547,District of Columbia,10,0
+d100548,Florida,46,2
+d100549,Georgia,31,1
+d100550,Hawaii,2,0
+d100551,Illinois,32,0
+d100552,Indiana,12,0
+d100553,Iowa,16,0
+d100554,Kansas,5,1
+d100555,Kentucky,11,0
+d100556,Louisiana,14,0
+d100557,Maine,1,0
+d100558,Maryland,13,0
+d100559,Massachusetts,108,0
+d100560,Michigan,12,0
+d100561,Minnesota,9,0
+d100562,Mississippi,1,0
+d100563,Missouri,2,0
+d100564,Nebraska,24,0
+d100565,Nevada,11,0
+d100566,New Hampshire,6,0
+d100567,New Jersey,29,1
+d100568,New Mexico,6,0
+d100569,New York,326,0
+d100570,North Carolina,16,0
+d100571,North Dakota,1,0
+d100572,Ohio,5,0
+d100573,Oklahoma,2,0
+d100574,Oregon,30,0
+d100575,Pennsylvania,22,0
+d100576,Rhode Island,5,0
+d100577,South Carolina,12,0
+d100578,South Dakota,8,1
+d100579,Tennessee,18,0
+d100580,Texas,41,0
+d100581,Utah,7,0
+d100582,Vermont,2,0
+d100583,Virginia,17,0
+d100584,Washington,419,32
+d100585,Wisconsin,8,0
+d100586,Wyoming,1,0
+d100587,Alabama,6,0
+d100588,Alaska,1,0
+d100589,Arizona,9,0
+d100590,Arkansas,7,0
+d100591,California,320,5
+d100592,Colorado,78,2
+d100593,Connecticut,11,0
+d100594,Delaware,4,0
+d100595,District of Columbia,10,0
+d100596,Florida,70,2
+d100597,Georgia,41,1
+d100598,Hawaii,2,0
+d100599,Idaho,1,0
+d100600,Illinois,46,0
+d100601,Indiana,12,0
+d100602,Iowa,17,0
+d100603,Kansas,6,1
+d100604,Kentucky,11,0
+d100605,Louisiana,36,0
+d100606,Maine,2,0
+d100607,Maryland,18,0
+d100608,Massachusetts,123,0
+d100609,Michigan,25,0
+d100610,Minnesota,14,0
+d100611,Mississippi,6,0
+d100612,Missouri,4,0
+d100613,Montana,4,0
+d100614,Nebraska,27,0
+d100615,Nevada,19,0
+d100616,New Hampshire,7,0
+d100617,New Jersey,50,1
+d100618,New Mexico,10,0
+d100619,New York,421,0
+d100620,North Carolina,18,0
+d100621,North Dakota,1,0
+d100622,Ohio,13,0
+d100623,Oklahoma,3,0
+d100624,Oregon,30,0
+d100625,Pennsylvania,41,0
+d100626,Puerto Rico,3,0
+d100627,Rhode Island,20,0
+d100628,South Carolina,13,0
+d100629,South Dakota,9,1
+d100630,Tennessee,26,0
+d100631,Texas,58,0
+d100632,Utah,7,0
+d100633,Vermont,2,0
+d100634,Virginia,30,0
+d100635,Washington,511,37
+d100636,Wisconsin,19,0
+d100637,Wyoming,2,0
+d100638,Alabama,12,0
+d100639,Alaska,1,0
+d100640,Arizona,12,0
+d100641,Arkansas,9,0
+d100642,California,381,5
+d100643,Colorado,103,2
+d100644,Connecticut,20,0
+d100645,Delaware,4,0
+d100646,District of Columbia,16,0
+d100647,Florida,70,3
+d100648,Georgia,65,1
+d100649,Hawaii,4,0
+d100650,Idaho,5,0
+d100651,Illinois,66,0
+d100652,Indiana,15,0
+d100653,Iowa,18,0
+d100654,Kansas,8,1
+d100655,Kentucky,18,0
+d100656,Louisiana,77,1
+d100657,Maine,3,0
+d100658,Maryland,27,0
+d100659,Massachusetts,138,0
+d100660,Michigan,33,0
+d100661,Minnesota,21,0
+d100662,Mississippi,6,0
+d100663,Missouri,5,0
+d100664,Montana,6,0
+d100665,Nebraska,29,0
+d100666,Nevada,21,0
+d100667,New Hampshire,7,0
+d100668,New Jersey,75,2
+d100669,New Mexico,13,0
+d100670,New York,610,2
+d100671,North Carolina,25,0
+d100672,North Dakota,1,0
+d100673,Ohio,26,0
+d100674,Oklahoma,4,0
+d100675,Oregon,36,1
+d100676,Pennsylvania,47,0
+d100677,Puerto Rico,4,0
+d100678,Rhode Island,20,0
+d100679,South Carolina,19,0
+d100680,South Dakota,9,1
+d100681,Tennessee,32,0
+d100682,Texas,69,0
+d100683,Utah,21,0
+d100684,Vermont,5,0
+d100685,Virgin Islands,1,0
+d100686,Virginia,42,1
+d100687,Washington,609,40
+d100688,Wisconsin,27,0
+d100689,Wyoming,3,0
+d100690,Alabama,23,0
+d100691,Alaska,1,0
+d100692,Arizona,13,0
+d100693,Arkansas,16,0
+d100694,California,478,6
+d100695,Colorado,136,2
+d100696,Connecticut,26,0
+d100697,Delaware,7,0
+d100698,District of Columbia,17,0
+d100699,Florida,109,3
+d100700,Georgia,97,1
+d100701,Guam,3,0
+d100702,Hawaii,7,0
+d100703,Idaho,5,0
+d100704,Illinois,94,0
+d100705,Indiana,19,0
+d100706,Iowa,22,0
+d100707,Kansas,9,1
+d100708,Kentucky,21,0
+d100709,Louisiana,103,2
+d100710,Maine,12,0
+d100711,Maryland,32,0
+d100712,Massachusetts,164,0
+d100713,Michigan,53,0
+d100714,Minnesota,35,0
+d100715,Mississippi,10,0
+d100716,Missouri,5,0
+d100717,Montana,6,0
+d100718,Nebraska,31,0
+d100719,Nevada,26,0
+d100720,New Hampshire,13,0
+d100721,New Jersey,98,2
+d100722,New Mexico,17,0
+d100723,New York,732,6
+d100724,North Carolina,32,0
+d100725,North Dakota,1,0
+d100726,Ohio,37,0
+d100727,Oklahoma,8,0
+d100728,Oregon,39,1
+d100729,Pennsylvania,68,0
+d100730,Puerto Rico,5,0
+d100731,Rhode Island,20,0
+d100732,South Carolina,28,0
+d100733,South Dakota,9,1
+d100734,Tennessee,39,0
+d100735,Texas,80,0
+d100736,Utah,29,0
+d100737,Vermont,8,0
+d100738,Virgin Islands,1,0
+d100739,Virginia,45,1
+d100740,Washington,675,42
+d100741,Wisconsin,33,0
+d100742,Wyoming,3,0
+d100743,Alabama,29,0
+d100744,Alaska,3,0
+d100745,Arizona,18,0
+d100746,Arkansas,22,0
+d100747,California,588,11
+d100748,Colorado,161,2
+d100749,Connecticut,41,0
+d100750,Delaware,8,0
+d100751,District of Columbia,22,0
+d100752,Florida,141,4
+d100753,Georgia,118,1
+d100754,Guam,3,0
+d100755,Hawaii,10,0
+d100756,Idaho,5,0
+d100757,Illinois,104,0
+d100758,Indiana,24,1
+d100759,Iowa,22,0
+d100760,Kansas,11,1
+d100761,Kentucky,22,1
+d100762,Louisiana,137,3
+d100763,Maine,17,0
+d100764,Maryland,39,0
+d100765,Massachusetts,197,0
+d100766,Michigan,54,0
+d100767,Minnesota,54,0
+d100768,Mississippi,12,0
+d100769,Missouri,9,0
+d100770,Montana,8,0
+d100771,Nebraska,33,0
+d100772,Nevada,45,1
+d100773,New Hampshire,17,0
+d100774,New Jersey,176,3
+d100775,New Mexico,21,0
+d100776,New York,950,10
+d100777,North Carolina,34,0
+d100778,North Dakota,1,0
+d100779,Ohio,50,0
+d100780,Oklahoma,10,0
+d100781,Oregon,46,1
+d100782,Pennsylvania,81,0
+d100783,Puerto Rico,5,0
+d100784,Rhode Island,21,0
+d100785,South Carolina,33,1
+d100786,South Dakota,10,1
+d100787,Tennessee,52,0
+d100788,Texas,87,1
+d100789,Utah,40,0
+d100790,Vermont,12,0
+d100791,Virgin Islands,2,0
+d100792,Virginia,51,1
+d100793,Washington,794,48
+d100794,Wisconsin,47,0
+d100795,Wyoming,10,0
+d100796,Alabama,39,0
+d100797,Alaska,6,0
+d100798,Arizona,20,0
+d100799,Arkansas,22,0
+d100800,California,732,14
+d100801,Colorado,183,3
+d100802,Connecticut,68,0
+d100803,Delaware,16,0
+d100804,District of Columbia,31,0
+d100805,Florida,210,6
+d100806,Georgia,142,1
+d100807,Guam,3,0
+d100808,Hawaii,14,0
+d100809,Idaho,9,0
+d100810,Illinois,159,1
+d100811,Indiana,30,2
+d100812,Iowa,29,0
+d100813,Kansas,17,1
+d100814,Kentucky,26,1
+d100815,Louisiana,196,5
+d100816,Maine,32,0
+d100817,Maryland,57,0
+d100818,Massachusetts,218,0
+d100819,Michigan,65,0
+d100820,Minnesota,60,0
+d100821,Mississippi,21,0
+d100822,Missouri,16,0
+d100823,Montana,8,0
+d100824,Nebraska,36,0
+d100825,Nevada,55,1
+d100826,New Hampshire,26,0
+d100827,New Jersey,268,3
+d100828,New Mexico,23,0
+d100829,New York,1374,17
+d100830,North Carolina,42,0
+d100831,North Dakota,5,0
+d100832,Ohio,67,0
+d100833,Oklahoma,18,0
+d100834,Oregon,66,2
+d100835,Pennsylvania,101,0
+d100836,Puerto Rico,5,0
+d100837,Rhode Island,23,0
+d100838,South Carolina,47,1
+d100839,South Dakota,11,1
+d100840,Tennessee,73,0
+d100841,Texas,106,1
+d100842,Utah,51,0
+d100843,Vermont,14,0
+d100844,Virgin Islands,2,0
+d100845,Virginia,67,2
+d100846,Washington,908,54
+d100847,West Virginia,1,0
+d100848,Wisconsin,72,0
+d100849,Wyoming,15,0
+d100850,Alabama,51,0
+d100851,Alaska,9,0
+d100852,Arizona,28,0
+d100853,Arkansas,33,0
+d100854,California,893,17
+d100855,Colorado,216,3
+d100856,Connecticut,96,1
+d100857,Delaware,26,0
+d100858,District of Columbia,36,0
+d100859,Florida,326,7
+d100860,Georgia,193,3
+d100861,Guam,8,0
+d100862,Hawaii,16,0
+d100863,Idaho,11,0
+d100864,Illinois,286,1
+d100865,Indiana,39,2
+d100866,Iowa,38,0
+d100867,Kansas,22,1
+d100868,Kentucky,35,1
+d100869,Louisiana,280,7
+d100870,Maine,43,0
+d100871,Maryland,85,1
+d100872,Massachusetts,256,0
+d100873,Michigan,80,1
+d100874,Minnesota,77,0
+d100875,Mississippi,34,0
+d100876,Missouri,21,1
+d100877,Montana,12,0
+d100878,Nebraska,43,0
+d100879,Nevada,82,1
+d100880,New Hampshire,39,0
+d100881,New Jersey,427,5
+d100882,New Mexico,28,0
+d100883,New York,2382,27
+d100884,North Carolina,66,0
+d100885,North Dakota,7,0
+d100886,Ohio,90,0
+d100887,Oklahoma,29,0
+d100888,Oregon,74,3
+d100889,Pennsylvania,139,1
+d100890,Puerto Rico,5,0
+d100891,Rhode Island,33,0
+d100892,South Carolina,60,1
+d100893,South Dakota,11,1
+d100894,Tennessee,98,0
+d100895,Texas,166,2
+d100896,Utah,65,0
+d100897,Vermont,19,0
+d100898,Virgin Islands,3,0
+d100899,Virginia,78,2
+d100900,Washington,1026,68
+d100901,West Virginia,2,0
+d100902,Wisconsin,106,0
+d100903,Wyoming,17,0
+d100904,Alabama,78,0
+d100905,Alaska,12,0
+d100906,Arizona,47,0
+d100907,Arkansas,62,0
+d100908,California,1067,19
+d100909,Colorado,278,5
+d100910,Connecticut,159,4
+d100911,Delaware,30,0
+d100912,District of Columbia,39,0
+d100913,Florida,434,8
+d100914,Georgia,282,10
+d100915,Guam,12,0
+d100916,Hawaii,26,0
+d100917,Idaho,23,0
+d100918,Illinois,420,4
+d100919,Indiana,56,2
+d100920,Iowa,44,0
+d100921,Kansas,35,1
+d100922,Kentucky,47,2
+d100923,Louisiana,392,10
+d100924,Maine,52,0
+d100925,Maryland,108,1
+d100926,Massachusetts,328,0
+d100927,Michigan,334,3
+d100928,Minnesota,89,0
+d100929,Mississippi,50,1
+d100930,Missouri,35,1
+d100931,Montana,19,0
+d100932,Nebraska,47,0
+d100933,Nevada,99,1
+d100934,New Hampshire,44,0
+d100935,New Jersey,735,9
+d100936,New Mexico,35,0
+d100937,New York,4152,30
+d100938,North Carolina,104,0
+d100939,North Dakota,19,0
+d100940,Ohio,120,0
+d100941,Oklahoma,44,1
+d100942,Oregon,87,3
+d100943,Pennsylvania,187,1
+d100944,Puerto Rico,6,0
+d100945,Rhode Island,44,0
+d100946,South Carolina,81,1
+d100947,South Dakota,14,1
+d100948,Tennessee,155,0
+d100949,Texas,248,4
+d100950,Utah,80,0
+d100951,Vermont,22,2
+d100952,Virgin Islands,3,0
+d100953,Virginia,94,2
+d100954,Washington,1228,75
+d100955,West Virginia,5,0
+d100956,Wisconsin,155,2
+d100957,Wyoming,18,0
+d100958,Alabama,106,0
+d100959,Alaska,14,0
+d100960,Arizona,70,1
+d100961,Arkansas,100,0
+d100962,California,1283,24
+d100963,Colorado,364,5
+d100964,Connecticut,194,4
+d100965,Delaware,39,0
+d100966,District of Columbia,71,0
+d100967,Florida,564,9
+d100968,Georgia,482,14
+d100969,Guam,14,0
+d100970,Hawaii,37,0
+d100971,Idaho,31,0
+d100972,Illinois,583,5
+d100973,Indiana,79,3
+d100974,Iowa,45,0
+d100975,Kansas,49,1
+d100976,Kentucky,63,2
+d100977,Louisiana,537,10
+d100978,Maine,57,0
+d100979,Maryland,150,2
+d100980,Massachusetts,413,1
+d100981,Michigan,548,4
+d100982,Minnesota,115,0
+d100983,Mississippi,80,1
+d100984,Missouri,73,3
+d100985,Montana,19,0
+d100986,Nebraska,53,0
+d100987,Nevada,165,2
+d100988,New Hampshire,55,0
+d100989,New Jersey,896,11
+d100990,New Mexico,43,0
+d100991,New York,7102,57
+d100992,North Carolina,144,0
+d100993,North Dakota,27,0
+d100994,Ohio,169,1
+d100995,Oklahoma,49,1
+d100996,Oregon,114,3
+d100997,Pennsylvania,269,1
+d100998,Puerto Rico,14,0
+d100999,Rhode Island,44,0
+d101000,South Carolina,126,3
+d101001,South Dakota,14,1
+d101002,Tennessee,237,0
+d101003,Texas,377,5
+d101004,Utah,112,0
+d101005,Vermont,29,2
+d101006,Virgin Islands,6,0
+d101007,Virginia,115,2
+d101008,Washington,1404,83
+d101009,West Virginia,8,0
+d101010,Wisconsin,216,3
+d101011,Wyoming,22,0
+d101012,Alabama,131,0
+d101013,Alaska,21,0
+d101014,Arizona,104,1
+d101015,Arkansas,118,0
+d101016,California,1544,28
+d101017,Colorado,475,6
+d101018,Connecticut,223,5
+d101019,Delaware,45,0
+d101020,District of Columbia,77,1
+d101021,Florida,764,11
+d101022,Georgia,552,20
+d101023,Guam,15,0
+d101024,Hawaii,48,0
+d101025,Idaho,42,0
+d101026,Illinois,751,6
+d101027,Indiana,126,4
+d101028,Iowa,68,0
+d101029,Kansas,57,2
+d101030,Kentucky,84,3
+d101031,Louisiana,763,16
+d101032,Maine,70,0
+d101033,Maryland,195,3
+d101034,Massachusetts,525,2
+d101035,Michigan,787,6
+d101036,Minnesota,138,1
+d101037,Mississippi,140,1
+d101038,Missouri,93,3
+d101039,Montana,29,0
+d101040,Nebraska,61,0
+d101041,Nevada,165,2
+d101042,New Hampshire,65,0
+d101043,New Jersey,1336,16
+d101044,New Mexico,57,0
+d101045,New York,10356,80
+d101046,North Carolina,184,0
+d101047,North Dakota,28,0
+d101048,Ohio,247,3
+d101049,Oklahoma,53,1
+d101050,Oregon,137,4
+d101051,Pennsylvania,388,2
+d101052,Puerto Rico,21,1
+d101053,Rhode Island,66,0
+d101054,South Carolina,172,3
+d101055,South Dakota,14,1
+d101056,Tennessee,312,2
+d101057,Texas,547,5
+d101058,Utah,138,0
+d101059,Vermont,49,2
+d101060,Virgin Islands,6,0
+d101061,Virginia,152,3
+d101062,Washington,1655,95
+d101063,West Virginia,12,0
+d101064,Wisconsin,281,4
+d101065,Wyoming,24,0
+d101066,Alabama,157,0
+d101067,Alaska,22,0
+d101068,Arizona,153,2
+d101069,Arkansas,165,0
+d101070,California,1851,35
+d101071,Colorado,591,7
+d101072,Connecticut,327,8
+d101073,Delaware,56,0
+d101074,District of Columbia,98,1
+d101075,Florida,1000,13
+d101076,Georgia,620,25
+d101077,Guam,27,1
+d101078,Hawaii,56,0
+d101079,Idaho,47,0
+d101080,Illinois,1047,9
+d101081,Indiana,201,6
+d101082,Iowa,90,0
+d101083,Kansas,66,2
+d101084,Kentucky,103,3
+d101085,Louisiana,837,20
+d101086,Maine,89,0
+d101087,Maryland,245,3
+d101088,Massachusetts,646,5
+d101089,Michigan,1033,9
+d101090,Minnesota,171,1
+d101091,Mississippi,207,1
+d101092,Missouri,130,3
+d101093,Montana,34,0
+d101094,Nebraska,62,0
+d101095,Nevada,190,2
+d101096,New Hampshire,78,0
+d101097,New Jersey,1914,20
+d101098,New Mexico,65,0
+d101099,New York,15168,122
+d101100,North Carolina,269,0
+d101101,North Dakota,30,0
+d101102,Ohio,351,3
+d101103,Oklahoma,67,2
+d101104,Oregon,161,5
+d101105,Pennsylvania,504,3
+d101106,Puerto Rico,23,1
+d101107,Rhode Island,83,0
+d101108,South Carolina,194,3
+d101109,South Dakota,21,1
+d101110,Tennessee,424,2
+d101111,Texas,632,7
+d101112,Utah,182,1
+d101113,Vermont,52,2
+d101114,Virgin Islands,17,0
+d101115,Virginia,219,6
+d101116,Washington,1844,97
+d101117,West Virginia,16,0
+d101118,Wisconsin,382,4
+d101119,Wyoming,26,0
+d101120,Alabama,196,0
+d101121,Alaska,36,0
+d101122,Arizona,234,2
+d101123,Arkansas,201,0
+d101124,California,2240,39
+d101125,Colorado,721,10
+d101126,Connecticut,415,10
+d101127,Delaware,87,0
+d101128,District of Columbia,116,2
+d101129,Florida,1222,18
+d101130,Georgia,800,25
+d101131,Guam,29,1
+d101132,Hawaii,77,0
+d101133,Idaho,50,0
+d101134,Illinois,1285,12
+d101135,Indiana,259,7
+d101136,Iowa,105,0
+d101137,Kansas,82,2
+d101138,Kentucky,124,3
+d101139,Louisiana,1172,34
+d101140,Maine,107,0
+d101141,Maryland,290,3
+d101142,Massachusetts,777,9
+d101143,Michigan,1324,16
+d101144,Minnesota,235,1
+d101145,Mississippi,249,1
+d101146,Missouri,183,4
+d101147,Montana,45,0
+d101148,Nebraska,73,0
+d101149,Nevada,265,4
+d101150,New Hampshire,101,1
+d101151,New Jersey,2844,27
+d101152,New Mexico,83,0
+d101153,New York,20875,159
+d101154,North Carolina,303,0
+d101155,North Dakota,32,0
+d101156,Ohio,444,6
+d101157,Oklahoma,81,2
+d101158,Oregon,191,5
+d101159,Pennsylvania,644,6
+d101160,Puerto Rico,31,2
+d101161,Rhode Island,106,0
+d101162,South Carolina,299,5
+d101163,South Dakota,28,1
+d101164,Tennessee,522,2
+d101165,Texas,728,7
+d101166,Utah,257,1
+d101167,Vermont,75,2
+d101168,Virgin Islands,17,0
+d101169,Virginia,254,6
+d101170,Washington,2101,110
+d101171,West Virginia,16,0
+d101172,Wisconsin,418,5
+d101173,Wyoming,28,0
+d101174,Alabama,242,0
+d101175,Alaska,42,0
+d101176,Arizona,326,6
+d101177,Arkansas,232,2
+d101178,California,2644,52
+d101179,Colorado,912,11
+d101180,Connecticut,618,12
+d101181,Delaware,104,0
+d101182,District of Columbia,137,2
+d101183,Florida,1467,19
+d101184,Georgia,1097,38
+d101185,Guam,32,1
+d101186,Hawaii,90,0
+d101187,Idaho,73,0
+d101188,Illinois,1535,16
+d101189,Indiana,366,12
+d101190,Iowa,124,1
+d101191,Kansas,99,3
+d101192,Kentucky,157,3
+d101193,Louisiana,1388,46
+d101194,Maine,118,0
+d101195,Maryland,349,4
+d101196,Massachusetts,1159,11
+d101197,Michigan,1791,24
+d101198,Minnesota,262,1
+d101199,Mississippi,320,1
+d101200,Missouri,255,5
+d101201,Montana,51,0
+d101202,Nebraska,77,0
+d101203,Nevada,315,6
+d101204,New Hampshire,108,1
+d101205,New Jersey,3675,44
+d101206,New Mexico,100,0
+d101207,New York,25665,218
+d101208,North Carolina,399,0
+d101209,North Dakota,36,0
+d101210,Ohio,564,8
+d101211,Oklahoma,106,3
+d101212,Oregon,209,8
+d101213,Pennsylvania,851,7
+d101214,Puerto Rico,39,2
+d101215,Rhode Island,124,0
+d101216,South Carolina,342,7
+d101217,South Dakota,30,1
+d101218,Tennessee,679,2
+d101219,Texas,857,11
+d101220,Utah,298,1
+d101221,Vermont,95,7
+d101222,Virgin Islands,17,0
+d101223,Virginia,290,7
+d101224,Washington,2469,123
+d101225,West Virginia,39,0
+d101226,Wisconsin,481,5
+d101227,Wyoming,37,0
+d101228,Alabama,386,1
+d101229,Alaska,59,0
+d101230,Arizona,402,6
+d101231,Arkansas,308,2
+d101232,California,3183,67
+d101233,Colorado,1086,19
+d101234,Connecticut,875,19
+d101235,Delaware,119,0
+d101236,District of Columbia,183,2
+d101237,Florida,1965,23
+d101238,Georgia,1387,47
+d101239,Guam,32,1
+d101240,Hawaii,95,0
+d101241,Idaho,123,0
+d101242,Illinois,1875,21
+d101243,Indiana,479,14
+d101244,Iowa,145,1
+d101245,Kansas,132,3
+d101246,Kentucky,198,5
+d101247,Louisiana,1795,65
+d101248,Maine,142,0
+d101249,Maryland,423,4
+d101250,Massachusetts,1838,15
+d101251,Michigan,2294,43
+d101252,Minnesota,287,1
+d101253,Mississippi,377,5
+d101254,Missouri,377,8
+d101255,Montana,65,0
+d101256,Nebraska,84,0
+d101257,Nevada,405,10
+d101258,New Hampshire,137,1
+d101259,New Jersey,4402,62
+d101260,New Mexico,112,1
+d101261,New York,33066,325
+d101262,North Carolina,563,1
+d101263,North Dakota,45,0
+d101264,Ohio,706,11
+d101265,Oklahoma,164,5
+d101266,Oregon,266,10
+d101267,Pennsylvania,1151,11
+d101268,Puerto Rico,51,2
+d101269,Rhode Island,132,0
+d101270,South Carolina,424,7
+d101271,South Dakota,41,1
+d101272,Tennessee,806,3
+d101273,Texas,1119,12
+d101274,Utah,346,1
+d101275,Vermont,123,8
+d101276,Virgin Islands,17,0
+d101277,Virginia,391,9
+d101278,Washington,2585,130
+d101279,West Virginia,51,0
+d101280,Wisconsin,623,7
+d101281,Wyoming,49,0
+d101282,Alabama,538,3
+d101283,Alaska,69,0
+d101284,Arizona,508,8
+d101285,Arkansas,351,3
+d101286,California,4060,82
+d101287,Colorado,1432,24
+d101288,Connecticut,1012,21
+d101289,Delaware,143,1
+d101290,District of Columbia,231,3
+d101291,Florida,2477,29
+d101292,Georgia,1643,56
+d101293,Guam,49,1
+d101294,Hawaii,106,0
+d101295,Idaho,189,3
+d101296,Illinois,2538,26
+d101297,Indiana,656,18
+d101298,Iowa,179,1
+d101299,Kansas,171,3
+d101300,Kentucky,248,5
+d101301,Louisiana,2305,83
+d101302,Maine,155,0
+d101303,Maryland,581,4
+d101304,Massachusetts,2417,25
+d101305,Michigan,2878,63
+d101306,Minnesota,346,2
+d101307,Mississippi,487,6
+d101308,Missouri,507,8
+d101309,Montana,90,0
+d101310,Nebraska,92,0
+d101311,Nevada,535,10
+d101312,New Hampshire,158,1
+d101313,New Jersey,6876,81
+d101314,New Mexico,136,1
+d101315,New York,38987,432
+d101316,North Carolina,638,2
+d101317,North Dakota,58,0
+d101318,Ohio,867,15
+d101319,Oklahoma,248,7
+d101320,Oregon,316,11
+d101321,Pennsylvania,1690,16
+d101322,Puerto Rico,64,2
+d101323,Rhode Island,165,0
+d101324,South Carolina,456,9
+d101325,South Dakota,46,1
+d101326,Tennessee,981,3
+d101327,Texas,1543,21
+d101328,Utah,402,1
+d101329,Vermont,158,9
+d101330,Virgin Islands,17,0
+d101331,Virginia,604,14
+d101332,Washington,3208,151
+d101333,West Virginia,76,0
+d101334,Wisconsin,754,10
+d101335,Wyoming,56,0
+d101336,Alabama,639,4
+d101337,Alaska,85,1
+d101338,Arizona,665,15
+d101339,Arkansas,386,3
+d101340,California,4914,102
+d101341,Colorado,1735,31
+d101342,Connecticut,1291,27
+d101343,Delaware,165,2
+d101344,District of Columbia,267,3
+d101345,Florida,3198,46
+d101346,Georgia,2198,64
+d101347,Guam,53,1
+d101348,Hawaii,120,0
+d101349,Idaho,231,4
+d101350,Illinois,3029,37
+d101351,Indiana,982,26
+d101352,Iowa,235,3
+d101353,Kansas,212,4
+d101354,Kentucky,302,8
+d101355,Louisiana,2746,119
+d101356,Maine,168,1
+d101357,Maryland,775,5
+d101358,Massachusetts,3240,35
+d101359,Michigan,3657,93
+d101360,Minnesota,398,4
+d101361,Mississippi,579,8
+d101362,Missouri,671,9
+d101363,Montana,121,1
+d101364,Nebraska,100,2
+d101365,Nevada,621,10
+d101366,New Hampshire,187,2
+d101367,New Jersey,8825,108
+d101368,New Mexico,191,1
+d101369,New York,44635,535
+d101370,North Carolina,783,3
+d101371,North Dakota,68,1
+d101372,Ohio,1144,22
+d101373,Oklahoma,322,8
+d101374,Oregon,414,12
+d101375,Pennsylvania,2218,23
+d101376,Puerto Rico,79,3
+d101377,Rhode Island,203,0
+d101378,South Carolina,539,13
+d101379,South Dakota,58,1
+d101380,Tennessee,1180,6
+d101381,Texas,1942,23
+d101382,Utah,480,2
+d101383,Vermont,184,10
+d101384,Virgin Islands,19,0
+d101385,Virginia,606,14
+d101386,Washington,3770,177
+d101387,West Virginia,96,0
+d101388,Wisconsin,930,16
+d101389,Wyoming,73,0
+d101390,Alabama,720,4
+d101391,Alaska,102,1
+d101392,Arizona,773,15
+d101393,Arkansas,409,5
+d101394,California,5565,121
+d101395,Colorado,2061,44
+d101396,Connecticut,1524,33
+d101397,Delaware,214,5
+d101398,District of Columbia,304,4
+d101399,Florida,4038,56
+d101400,Georgia,2447,79
+d101401,Guam,57,1
+d101402,Hawaii,151,0
+d101403,Idaho,261,5
+d101404,Illinois,3547,50
+d101405,Indiana,1232,31
+d101406,Iowa,298,3
+d101407,Kansas,271,6
+d101408,Kentucky,394,9
+d101409,Louisiana,3315,137
+d101410,Maine,211,1
+d101411,Maryland,1066,10
+d101412,Massachusetts,4257,44
+d101413,Michigan,4635,111
+d101414,Minnesota,441,5
+d101415,Mississippi,669,13
+d101416,Missouri,838,10
+d101417,Montana,147,1
+d101418,Nebraska,122,2
+d101419,Nevada,738,14
+d101420,New Hampshire,214,2
+d101421,New Jersey,11124,140
+d101422,New Mexico,208,2
+d101423,New York,53363,782
+d101424,North Carolina,972,4
+d101425,North Dakota,94,1
+d101426,Northern Mariana Islands,2,0
+d101427,Ohio,1406,25
+d101428,Oklahoma,377,15
+d101429,Oregon,479,13
+d101430,Pennsylvania,2815,35
+d101431,Puerto Rico,100,3
+d101432,Rhode Island,239,2
+d101433,South Carolina,660,15
+d101434,South Dakota,68,1
+d101435,Tennessee,1364,6
+d101436,Texas,2161,29
+d101437,Utah,608,2
+d101438,Vermont,211,12
+d101439,Virgin Islands,19,0
+d101440,Virginia,740,17
+d101441,Washington,4311,191
+d101442,West Virginia,113,0
+d101443,Wisconsin,1042,17
+d101444,Wyoming,84,0
+d101445,Alabama,830,5
+d101446,Alaska,114,1
+d101447,Arizona,929,18
+d101448,Arkansas,449,6
+d101449,California,6266,130
+d101450,Colorado,2315,47
+d101451,Connecticut,1993,34
+d101452,Delaware,232,6
+d101453,District of Columbia,342,5
+d101454,Florida,4942,59
+d101455,Georgia,2683,83
+d101456,Guam,58,1
+d101457,Hawaii,175,0
+d101458,Idaho,310,6
+d101459,Illinois,4613,70
+d101460,Indiana,1514,32
+d101461,Iowa,336,4
+d101462,Kansas,332,7
+d101463,Kentucky,439,9
+d101464,Louisiana,3540,152
+d101465,Maine,253,3
+d101466,Maryland,1244,11
+d101467,Massachusetts,4955,48
+d101468,Michigan,5486,132
+d101469,Minnesota,504,9
+d101470,Mississippi,759,14
+d101471,Missouri,903,12
+d101472,Montana,161,1
+d101473,Nebraska,137,2
+d101474,Nevada,920,15
+d101475,New Hampshire,258,3
+d101476,New Jersey,13386,161
+d101477,New Mexico,237,2
+d101478,New York,59568,965
+d101479,North Carolina,1167,6
+d101480,North Dakota,98,1
+d101481,Northern Mariana Islands,2,0
+d101482,Ohio,1665,30
+d101483,Oklahoma,429,16
+d101484,Oregon,548,13
+d101485,Pennsylvania,3441,40
+d101486,Puerto Rico,127,5
+d101487,Rhode Island,294,3
+d101488,South Carolina,774,16
+d101489,South Dakota,90,1
+d101490,Tennessee,1570,7
+d101491,Texas,2712,35
+d101492,Utah,719,2
+d101493,Vermont,235,12
+d101494,Virgin Islands,23,0
+d101495,Virginia,890,22
+d101496,Washington,4896,207
+d101497,West Virginia,124,1
+d101498,Wisconsin,1120,17
+d101499,Wyoming,87,0
+d101500,Alabama,947,11
+d101501,Alaska,119,2
+d101502,Arizona,1169,20
+d101503,Arkansas,508,7
+d101504,California,7421,146
+d101505,Colorado,2628,51
+d101506,Connecticut,2571,36
+d101507,Delaware,264,7
+d101508,District of Columbia,401,9
+d101509,Florida,5694,71
+d101510,Georgia,3032,102
+d101511,Guam,60,1
+d101512,Hawaii,204,0
+d101513,Idaho,415,7
+d101514,Illinois,5070,84
+d101515,Indiana,1788,35
+d101516,Iowa,424,6
+d101517,Kansas,373,9
+d101518,Kentucky,480,11
+d101519,Louisiana,4025,186
+d101520,Maine,275,3
+d101521,Maryland,1414,15
+d101522,Massachusetts,5752,56
+d101523,Michigan,6508,197
+d101524,Minnesota,576,10
+d101525,Mississippi,848,16
+d101526,Missouri,1050,13
+d101527,Montana,177,4
+d101528,Nebraska,185,3
+d101529,Nevada,1044,18
+d101530,New Hampshire,314,3
+d101531,New Jersey,16636,199
+d101532,New Mexico,281,4
+d101533,New York,67174,1224
+d101534,North Carolina,1304,6
+d101535,North Dakota,109,3
+d101536,Northern Mariana Islands,2,0
+d101537,Ohio,1933,40
+d101538,Oklahoma,481,17
+d101539,Oregon,606,16
+d101540,Pennsylvania,4156,48
+d101541,Puerto Rico,174,6
+d101542,Rhode Island,408,4
+d101543,South Carolina,925,18
+d101544,South Dakota,101,1
+d101545,Tennessee,1721,13
+d101546,Texas,3043,46
+d101547,Utah,806,4
+d101548,Vermont,256,12
+d101549,Virgin Islands,30,0
+d101550,Virginia,1021,26
+d101551,Washington,5179,221
+d101552,West Virginia,145,1
+d101553,Wisconsin,1267,20
+d101554,Wyoming,95,0
+d101555,Alabama,999,13
+d101556,Alaska,133,2
+d101557,Arizona,1298,24
+d101558,Arkansas,564,8
+d101559,California,8582,183
+d101560,Colorado,2990,69
+d101561,Connecticut,3128,69
+d101562,Delaware,319,10
+d101563,District of Columbia,495,9
+d101564,Florida,6741,85
+d101565,Georgia,4117,125
+d101566,Guam,139,2
+d101567,Hawaii,224,1
+d101568,Idaho,526,9
+d101569,Illinois,5994,107
+d101570,Indiana,2159,50
+d101571,Iowa,498,7
+d101572,Kansas,434,10
+d101573,Kentucky,590,18
+d101574,Louisiana,5237,240
+d101575,Maine,303,5
+d101576,Maryland,1662,18
+d101577,Massachusetts,6620,89
+d101578,Michigan,7630,264
+d101579,Minnesota,629,12
+d101580,Mississippi,937,20
+d101581,Missouri,1351,15
+d101582,Montana,198,5
+d101583,Nebraska,193,4
+d101584,Nevada,1113,26
+d101585,New Hampshire,367,3
+d101586,New Jersey,18696,267
+d101587,New Mexico,315,5
+d101588,New York,75832,1550
+d101589,North Carolina,1528,10
+d101590,North Dakota,126,3
+d101591,Northern Mariana Islands,2,0
+d101592,Ohio,2199,55
+d101593,Oklahoma,566,23
+d101594,Oregon,690,18
+d101595,Pennsylvania,4997,72
+d101596,Puerto Rico,239,8
+d101597,Rhode Island,488,8
+d101598,South Carolina,1083,22
+d101599,South Dakota,108,1
+d101600,Tennessee,2049,13
+d101601,Texas,3576,57
+d101602,Utah,887,5
+d101603,Vermont,293,13
+d101604,Virgin Islands,30,0
+d101605,Virginia,1250,27
+d101606,Washington,5292,226
+d101607,West Virginia,162,1
+d101608,Wisconsin,1351,25
+d101609,Wyoming,120,0
+d101610,Alabama,1106,28
+d101611,Alaska,143,2
+d101612,Arizona,1413,29
+d101613,Arkansas,624,10
+d101614,California,9816,212
+d101615,Colorado,3346,80
+d101616,Connecticut,3557,85
+d101617,Delaware,368,11
+d101618,District of Columbia,586,11
+d101619,Florida,7765,100
+d101620,Georgia,4748,154
+d101621,Guam,147,3
+d101622,Hawaii,258,1
+d101623,Idaho,669,9
+d101624,Illinois,6980,146
+d101625,Indiana,2565,65
+d101626,Iowa,549,9
+d101627,Kansas,488,11
+d101628,Kentucky,682,20
+d101629,Louisiana,6424,273
+d101630,Maine,344,7
+d101631,Maryland,1985,33
+d101632,Massachusetts,7738,122
+d101633,Michigan,9293,336
+d101634,Minnesota,689,17
+d101635,Mississippi,1073,22
+d101636,Missouri,1581,18
+d101637,Montana,217,5
+d101638,Nebraska,249,5
+d101639,Nevada,1279,32
+d101640,New Hampshire,415,4
+d101641,New Jersey,22255,355
+d101642,New Mexico,363,6
+d101643,New York,83889,1941
+d101644,North Carolina,1582,11
+d101645,North Dakota,147,3
+d101646,Northern Mariana Islands,6,1
+d101647,Ohio,2547,65
+d101648,Oklahoma,719,30
+d101649,Oregon,736,19
+d101650,Pennsylvania,5805,74
+d101651,Puerto Rico,286,11
+d101652,Rhode Island,566,10
+d101653,South Carolina,1293,26
+d101654,South Dakota,129,2
+d101655,Tennessee,2690,23
+d101656,Texas,4261,63
+d101657,Utah,1012,7
+d101658,Vermont,321,16
+d101659,Virgin Islands,30,0
+d101660,Virginia,1511,34
+d101661,Washington,5588,249
+d101662,West Virginia,191,2
+d101663,Wisconsin,1550,33
+d101664,Wyoming,137,0
+d101665,Alabama,1270,32
+d101666,Alaska,146,2
+d101667,Arizona,1600,35
+d101668,Arkansas,683,12
+d101669,California,11190,247
+d101670,Colorado,3728,96
+d101671,Connecticut,3824,112
+d101672,Delaware,393,12
+d101673,District of Columbia,653,12
+d101674,Florida,9000,144
+d101675,Georgia,5444,176
+d101676,Guam,152,3
+d101677,Hawaii,283,2
+d101678,Idaho,891,9
+d101679,Illinois,7695,165
+d101680,Indiana,3039,78
+d101681,Iowa,614,11
+d101682,Kansas,554,14
+d101683,Kentucky,755,34
+d101684,Louisiana,9150,310
+d101685,Maine,376,7
+d101686,Maryland,2331,36
+d101687,Massachusetts,8966,154
+d101688,Michigan,10791,417
+d101689,Minnesota,742,18
+d101690,Mississippi,1177,26
+d101691,Missouri,1834,24
+d101692,Montana,241,5
+d101693,Nebraska,273,6
+d101694,Nevada,1458,38
+d101695,New Hampshire,479,5
+d101696,New Jersey,25590,539
+d101697,New Mexico,403,7
+d101698,New York,92381,2373
+d101699,North Carolina,1857,17
+d101700,North Dakota,159,3
+d101701,Northern Mariana Islands,8,1
+d101702,Ohio,2902,81
+d101703,Oklahoma,879,34
+d101704,Oregon,826,21
+d101705,Pennsylvania,7016,90
+d101706,Puerto Rico,316,12
+d101707,Rhode Island,657,12
+d101708,South Carolina,1554,31
+d101709,South Dakota,165,2
+d101710,Tennessee,2869,32
+d101711,Texas,4880,79
+d101712,Utah,1074,7
+d101713,Vermont,338,17
+d101714,Virgin Islands,37,0
+d101715,Virginia,1706,41
+d101716,Washington,6585,272
+d101717,West Virginia,217,2
+d101718,Wisconsin,1730,37
+d101719,Wyoming,153,0
+d101720,Alabama,1535,38
+d101721,Alaska,156,2
+d101722,Arizona,1769,41
+d101723,Arkansas,738,12
+d101724,California,12569,282
+d101725,Colorado,4182,110
+d101726,Connecticut,4915,132
+d101727,Delaware,450,14
+d101728,District of Columbia,757,15
+d101729,Florida,10260,169
+d101730,Georgia,5967,198
+d101731,Guam,154,4
+d101732,Hawaii,317,3
+d101733,Idaho,1013,10
+d101734,Illinois,8904,211
+d101735,Indiana,3437,102
+d101736,Iowa,699,11
+d101737,Kansas,624,19
+d101738,Kentucky,770,34
+d101739,Louisiana,10297,370
+d101740,Maine,432,9
+d101741,Maryland,2758,42
+d101742,Massachusetts,10402,192
+d101743,Michigan,12670,478
+d101744,Minnesota,789,22
+d101745,Mississippi,1358,29
+d101746,Missouri,2113,31
+d101747,Montana,262,5
+d101748,Nebraska,296,6
+d101749,Nevada,1549,43
+d101750,New Hampshire,540,7
+d101751,New Jersey,29895,647
+d101752,New Mexico,495,10
+d101753,New York,102870,2935
+d101754,North Carolina,2093,19
+d101755,North Dakota,173,3
+d101756,Northern Mariana Islands,8,1
+d101757,Ohio,3312,91
+d101758,Oklahoma,988,38
+d101759,Oregon,899,22
+d101760,Pennsylvania,8420,102
+d101761,Puerto Rico,378,15
+d101762,Rhode Island,711,14
+d101763,South Carolina,1700,34
+d101764,South Dakota,187,2
+d101765,Tennessee,3032,36
+d101766,Texas,5669,97
+d101767,Utah,1260,7
+d101768,Vermont,389,17
+d101769,Virgin Islands,38,0
+d101770,Virginia,2012,46
+d101771,Washington,6966,293
+d101772,West Virginia,242,2
+d101773,Wisconsin,1916,49
+d101774,Wyoming,166,0
+d101775,Alabama,1633,44
+d101776,Alaska,169,3
+d101777,Arizona,2019,53
+d101778,Arkansas,743,14
+d101779,California,13796,323
+d101780,Colorado,4574,126
+d101781,Connecticut,5276,165
+d101782,Delaware,593,14
+d101783,District of Columbia,902,21
+d101784,Florida,11537,194
+d101785,Georgia,6383,208
+d101786,Guam,223,4
+d101787,Hawaii,349,3
+d101788,Idaho,1077,10
+d101789,Illinois,10357,248
+d101790,Indiana,3953,116
+d101791,Iowa,786,11
+d101792,Kansas,701,21
+d101793,Kentucky,917,40
+d101794,Louisiana,12496,412
+d101795,Maine,456,10
+d101796,Maryland,3125,54
+d101797,Massachusetts,11736,216
+d101798,Michigan,14225,540
+d101799,Minnesota,865,24
+d101800,Mississippi,1455,35
+d101801,Missouri,2291,44
+d101802,Montana,281,6
+d101803,Nebraska,339,8
+d101804,Nevada,1758,46
+d101805,New Hampshire,621,9
+d101806,New Jersey,34124,847
+d101807,New Mexico,543,11
+d101808,New York,114996,3568
+d101809,North Carolina,2402,30
+d101810,North Dakota,186,3
+d101811,Northern Mariana Islands,8,1
+d101812,Ohio,3739,102
+d101813,Oklahoma,1159,42
+d101814,Oregon,999,26
+d101815,Pennsylvania,10109,139
+d101816,Puerto Rico,452,18
+d101817,Rhode Island,806,17
+d101818,South Carolina,1917,40
+d101819,South Dakota,212,2
+d101820,Tennessee,3265,47
+d101821,Texas,6566,124
+d101822,Utah,1428,8
+d101823,Vermont,461,20
+d101824,Virgin Islands,42,0
+d101825,Virginia,2407,52
+d101826,Washington,7498,318
+d101827,West Virginia,282,2
+d101828,Wisconsin,2112,60
+d101829,Wyoming,187,0
+d101830,Alabama,1841,45
+d101831,Alaska,185,4
+d101832,Arizona,2269,64
+d101833,Arkansas,853,16
+d101834,California,15076,349
+d101835,Colorado,4950,140
+d101836,Connecticut,5675,189
+d101837,Delaware,673,14
+d101838,District of Columbia,998,22
+d101839,Florida,12342,220
+d101840,Georgia,6742,219
+d101841,Guam,265,4
+d101842,Hawaii,369,4
+d101843,Idaho,1101,10
+d101844,Illinois,11276,282
+d101845,Indiana,4411,127
+d101846,Iowa,868,22
+d101847,Kansas,763,23
+d101848,Kentucky,1048,44
+d101849,Louisiana,13010,477
+d101850,Maine,470,10
+d101851,Maryland,3609,68
+d101852,Massachusetts,12500,231
+d101853,Michigan,15635,616
+d101854,Minnesota,935,29
+d101855,Mississippi,1638,43
+d101856,Missouri,2367,52
+d101857,Montana,298,6
+d101858,Nebraska,377,8
+d101859,Nevada,1880,46
+d101860,New Hampshire,669,9
+d101861,New Jersey,37505,917
+d101862,New Mexico,624,12
+d101863,New York,122911,4161
+d101864,North Carolina,2585,37
+d101865,North Dakota,207,3
+d101866,Northern Mariana Islands,8,1
+d101867,Ohio,4043,119
+d101868,Oklahoma,1252,46
+d101869,Oregon,1068,27
+d101870,Pennsylvania,11589,159
+d101871,Puerto Rico,475,20
+d101872,Rhode Island,922,25
+d101873,South Carolina,2049,44
+d101874,South Dakota,240,2
+d101875,Tennessee,3538,50
+d101876,Texas,7091,136
+d101877,Utah,1605,8
+d101878,Vermont,512,22
+d101879,Virgin Islands,42,0
+d101880,Virginia,2637,52
+d101881,Washington,7984,344
+d101882,West Virginia,324,3
+d101883,Wisconsin,2267,73
+d101884,Wyoming,200,0
+d101885,Alabama,2006,53
+d101886,Alaska,189,4
+d101887,Arizona,2465,67
+d101888,Arkansas,927,16
+d101889,California,16284,386
+d101890,Colorado,5172,150
+d101891,Connecticut,6906,206
+d101892,Delaware,783,15
+d101893,District of Columbia,1097,24
+d101894,Florida,13621,253
+d101895,Georgia,7558,294
+d101896,Guam,266,4
+d101897,Hawaii,385,5
+d101898,Idaho,1170,13
+d101899,Illinois,12262,309
+d101900,Indiana,4956,141
+d101901,Iowa,946,25
+d101902,Kansas,853,25
+d101903,Kentucky,1057,52
+d101904,Louisiana,14867,512
+d101905,Maine,499,10
+d101906,Maryland,4045,92
+d101907,Massachusetts,13837,260
+d101908,Michigan,17130,727
+d101909,Minnesota,986,30
+d101910,Mississippi,1738,51
+d101911,Missouri,2722,56
+d101912,Montana,319,6
+d101913,Nebraska,438,10
+d101914,Nevada,1971,58
+d101915,New Hampshire,715,9
+d101916,New Jersey,41090,1005
+d101917,New Mexico,686,12
+d101918,New York,130689,4758
+d101919,North Carolina,2870,40
+d101920,North Dakota,225,3
+d101921,Northern Mariana Islands,8,1
+d101922,Ohio,4450,142
+d101923,Oklahoma,1327,51
+d101924,Oregon,1132,29
+d101925,Pennsylvania,13074,169
+d101926,Puerto Rico,513,21
+d101927,Rhode Island,1082,27
+d101928,South Carolina,2232,48
+d101929,South Dakota,288,4
+d101930,Tennessee,3753,65
+d101931,Texas,8104,159
+d101932,Utah,1675,13
+d101933,Vermont,543,23
+d101934,Virgin Islands,43,1
+d101935,Virginia,2878,54
+d101936,Washington,8384,383
+d101937,West Virginia,345,4
+d101938,Wisconsin,2440,83
+d101939,Wyoming,212,0
+d101940,Alabama,2197,64
+d101941,Alaska,211,4
+d101942,Arizona,2575,77
+d101943,Arkansas,997,18
+d101944,California,17540,447
+d101945,Colorado,5429,179
+d101946,Connecticut,7781,277
+d101947,Delaware,928,16
+d101948,District of Columbia,1211,24
+d101949,Florida,14739,295
+d101950,Georgia,9156,348
+d101951,Guam,274,4
+d101952,Hawaii,408,5
+d101953,Idaho,1210,15
+d101954,Illinois,13549,384
+d101955,Indiana,5507,173
+d101956,Iowa,1048,26
+d101957,Kansas,905,30
+d101958,Kentucky,1289,66
+d101959,Louisiana,16284,582
+d101960,Maine,519,12
+d101961,Maryland,4371,104
+d101962,Massachusetts,15202,356
+d101963,Michigan,18852,845
+d101964,Minnesota,1069,34
+d101965,Mississippi,1915,59
+d101966,Missouri,3037,79
+d101967,Montana,319,6
+d101968,Nebraska,490,12
+d101969,Nevada,2101,60
+d101970,New Hampshire,747,13
+d101971,New Jersey,44416,1232
+d101972,New Mexico,794,13
+d101973,New York,140081,5563
+d101974,North Carolina,3220,50
+d101975,North Dakota,237,4
+d101976,Northern Mariana Islands,8,2
+d101977,Ohio,4782,167
+d101978,Oklahoma,1472,67
+d101979,Oregon,1181,33
+d101980,Pennsylvania,14582,240
+d101981,Puerto Rico,573,23
+d101982,Rhode Island,1229,30
+d101983,South Carolina,2417,51
+d101984,South Dakota,320,6
+d101985,Tennessee,4010,72
+d101986,Texas,8968,177
+d101987,Utah,1752,13
+d101988,Vermont,575,23
+d101989,Virgin Islands,45,1
+d101990,Virginia,3333,69
+d101991,Washington,8682,409
+d101992,West Virginia,412,4
+d101993,Wisconsin,2578,94
+d101994,Wyoming,221,0
+d101995,Alabama,2499,67
+d101996,Alaska,224,5
+d101997,Arizona,2726,80
+d101998,Arkansas,1077,18
+d101999,California,19043,506
+d102000,Colorado,5655,192
+d102001,Connecticut,8781,335
+d102002,Delaware,1116,19
+d102003,District of Columbia,1440,27
+d102004,Florida,15690,322
+d102005,Georgia,10204,370
+d102006,Guam,409,4
+d102007,Hawaii,433,5
+d102008,Idaho,1232,19
+d102009,Illinois,15078,464
+d102010,Indiana,5943,203
+d102011,Iowa,1145,27
+d102012,Kansas,1055,38
+d102013,Kentucky,1393,73
+d102014,Louisiana,17030,652
+d102015,Maine,537,14
+d102016,Maryland,5529,124
+d102017,Massachusetts,16790,433
+d102018,Michigan,20220,959
+d102019,Minnesota,1154,39
+d102020,Mississippi,2003,67
+d102021,Missouri,3327,86
+d102022,Montana,332,6
+d102023,Nebraska,538,14
+d102024,Nevada,2318,80
+d102025,New Hampshire,788,18
+d102026,New Jersey,47437,1504
+d102027,New Mexico,865,16
+d102028,New York,149401,6268
+d102029,North Carolina,3423,61
+d102030,North Dakota,251,4
+d102031,Northern Mariana Islands,11,2
+d102032,Ohio,5148,193
+d102033,Oklahoma,1524,79
+d102034,Oregon,1239,38
+d102035,Pennsylvania,16414,313
+d102036,Puerto Rico,620,24
+d102037,Rhode Island,1450,35
+d102038,South Carolina,2552,63
+d102039,South Dakota,393,6
+d102040,Tennessee,4246,83
+d102041,Texas,9897,195
+d102042,Utah,1875,13
+d102043,Vermont,605,23
+d102044,Virgin Islands,45,1
+d102045,Virginia,3645,75
+d102046,Washington,9097,430
+d102047,West Virginia,483,4
+d102048,Wisconsin,2756,107
+d102049,Wyoming,230,0
+d102050,Alabama,2838,78
+d102051,Alaska,233,5
+d102052,Arizona,3018,89
+d102053,Arkansas,1146,21
+d102054,California,20191,548
+d102055,Colorado,6202,227
+d102056,Connecticut,9784,380
+d102057,Delaware,1209,23
+d102058,District of Columbia,1523,32
+d102059,Florida,16819,370
+d102060,Georgia,10885,412
+d102061,Guam,542,4
+d102062,Hawaii,440,6
+d102063,Idaho,1353,24
+d102064,Illinois,16422,534
+d102065,Indiana,6351,246
+d102066,Iowa,1270,27
+d102067,Kansas,1116,42
+d102068,Kentucky,1525,84
+d102069,Louisiana,18283,702
+d102070,Maine,560,16
+d102071,Maryland,6185,139
+d102072,Massachusetts,18941,503
+d102073,Michigan,21375,1076
+d102074,Minnesota,1242,50
+d102075,Mississippi,2260,76
+d102076,Missouri,3539,94
+d102077,Montana,354,6
+d102078,Nebraska,594,15
+d102079,Nevada,2456,82
+d102080,New Hampshire,819,21
+d102081,New Jersey,51027,1700
+d102082,New Mexico,989,17
+d102083,New York,159937,7067
+d102084,North Carolina,3651,74
+d102085,North Dakota,269,5
+d102086,Northern Mariana Islands,11,2
+d102087,Ohio,5512,213
+d102088,Oklahoma,1684,80
+d102089,Oregon,1321,44
+d102090,Pennsylvania,18379,344
+d102091,Puerto Rico,683,33
+d102092,Rhode Island,1727,43
+d102093,South Carolina,2792,67
+d102094,South Dakota,447,6
+d102095,Tennessee,4456,95
+d102096,Texas,11372,228
+d102097,Utah,1980,13
+d102098,Vermont,628,23
+d102099,Virgin Islands,46,1
+d102100,Virginia,4042,109
+d102101,Washington,9608,456
+d102102,West Virginia,524,5
+d102103,Wisconsin,2885,116
+d102104,Wyoming,239,0
+d102105,Alabama,3008,80
+d102106,Alaska,244,5
+d102107,Arizona,3112,97
+d102108,Arkansas,1202,24
+d102109,California,21366,594
+d102110,Colorado,6510,253
+d102111,Connecticut,10538,448
+d102112,Delaware,1326,32
+d102113,District of Columbia,1660,38
+d102114,Florida,17960,418
+d102115,Georgia,11859,425
+d102116,Guam,577,4
+d102117,Hawaii,463,8
+d102118,Idaho,1397,25
+d102119,Illinois,17887,607
+d102120,Indiana,6907,300
+d102121,Iowa,1388,31
+d102122,Kansas,1180,50
+d102123,Kentucky,1702,90
+d102124,Louisiana,19253,755
+d102125,Maine,586,17
+d102126,Maryland,6968,172
+d102127,Massachusetts,20974,599
+d102128,Michigan,22646,1280
+d102129,Minnesota,1335,57
+d102130,Mississippi,2469,82
+d102131,Missouri,3799,105
+d102132,Montana,365,6
+d102133,Nebraska,679,18
+d102134,Nevada,2606,86
+d102135,New Hampshire,885,22
+d102136,New Jersey,54588,1932
+d102137,New Mexico,1091,19
+d102138,New York,170512,7844
+d102139,North Carolina,3906,78
+d102140,North Dakota,278,7
+d102141,Northern Mariana Islands,11,2
+d102142,Ohio,5878,231
+d102143,Oklahoma,1794,88
+d102144,Oregon,1371,48
+d102145,Pennsylvania,20128,435
+d102146,Puerto Rico,725,39
+d102147,Rhode Island,2015,49
+d102148,South Carolina,3065,72
+d102149,South Dakota,536,6
+d102150,Tennessee,4793,104
+d102151,Texas,12290,246
+d102152,Utah,2103,17
+d102153,Vermont,679,24
+d102154,Virgin Islands,46,1
+d102155,Virginia,4509,121
+d102156,Washington,9887,483
+d102157,West Virginia,537,5
+d102158,Wisconsin,3068,131
+d102159,Wyoming,253,0
+d102160,Alabama,3262,93
+d102161,Alaska,255,6
+d102162,Arizona,3393,112
+d102163,Arkansas,1228,25
+d102164,California,22421,632
+d102165,Colorado,6893,274
+d102166,Connecticut,11510,494
+d102167,Delaware,1479,33
+d102168,District of Columbia,1778,47
+d102169,Florida,18978,445
+d102170,Georgia,12261,432
+d102171,Guam,681,5
+d102172,Hawaii,484,8
+d102173,Idaho,1407,27
+d102174,Illinois,19180,682
+d102175,Indiana,7435,330
+d102176,Iowa,1510,34
+d102177,Kansas,1283,55
+d102178,Kentucky,1851,94
+d102179,Louisiana,20014,806
+d102180,Maine,616,19
+d102181,Maryland,7694,207
+d102182,Massachusetts,22860,686
+d102183,Michigan,23853,1391
+d102184,Minnesota,1427,64
+d102185,Mississippi,2642,93
+d102186,Missouri,4024,116
+d102187,Montana,377,6
+d102188,Nebraska,719,18
+d102189,Nevada,2720,111
+d102190,New Hampshire,929,23
+d102191,New Jersey,58151,2183
+d102192,New Mexico,1174,20
+d102193,New York,180458,8627
+d102194,North Carolina,4310,86
+d102195,North Dakota,293,7
+d102196,Northern Mariana Islands,11,2
+d102197,Ohio,6250,247
+d102198,Oklahoma,1868,93
+d102199,Oregon,1447,51
+d102200,Pennsylvania,21774,515
+d102201,Puerto Rico,788,42
+d102202,Rhode Island,2349,56
+d102203,South Carolina,3207,80
+d102204,South Dakota,626,6
+d102205,Tennessee,4983,107
+d102206,Texas,13208,265
+d102207,Utah,2206,18
+d102208,Vermont,711,25
+d102209,Virgin Islands,51,1
+d102210,Virginia,5077,130
+d102211,Washington,10224,498
+d102212,West Virginia,593,6
+d102213,Wisconsin,3213,141
+d102214,Wyoming,261,0
+d102215,Alabama,3583,93
+d102216,Alaska,270,6
+d102217,Arizona,3539,117
+d102218,Arkansas,1280,27
+d102219,California,23323,676
+d102220,Colorado,7303,290
+d102221,Connecticut,12035,554
+d102222,Delaware,1625,35
+d102223,District of Columbia,1875,50
+d102224,Florida,19855,460
+d102225,Georgia,12103,438
+d102226,Guam,716,5
+d102227,Hawaii,497,9
+d102228,Idaho,1426,27
+d102229,Illinois,20852,727
+d102230,Indiana,7928,343
+d102231,Iowa,1587,41
+d102232,Kansas,1338,56
+d102233,Kentucky,1963,98
+d102234,Louisiana,20595,840
+d102235,Maine,633,19
+d102236,Maryland,8225,236
+d102237,Massachusetts,25475,756
+d102238,Michigan,24494,1486
+d102239,Minnesota,1621,70
+d102240,Mississippi,2781,96
+d102241,Missouri,4160,116
+d102242,Montana,387,6
+d102243,Nebraska,806,18
+d102244,Nevada,2860,113
+d102245,New Hampshire,985,23
+d102246,New Jersey,61850,2350
+d102247,New Mexico,1245,26
+d102248,New York,188694,9385
+d102249,North Carolina,4520,86
+d102250,North Dakota,308,8
+d102251,Northern Mariana Islands,11,2
+d102252,Ohio,6604,253
+d102253,Oklahoma,1970,96
+d102254,Oregon,1527,52
+d102255,Pennsylvania,22955,525
+d102256,Puerto Rico,897,44
+d102257,Rhode Island,2665,63
+d102258,South Carolina,3319,82
+d102259,South Dakota,730,6
+d102260,Tennessee,5144,107
+d102261,Texas,13776,288
+d102262,Utah,2303,18
+d102263,Vermont,727,27
+d102264,Virgin Islands,51,1
+d102265,Virginia,5274,141
+d102266,Washington,10411,511
+d102267,West Virginia,615,8
+d102268,Wisconsin,3341,145
+d102269,Wyoming,270,0
+d102270,Alabama,3805,104
+d102271,Alaska,275,6
+d102272,Arizona,3702,122
+d102273,Arkansas,1475,30
+d102274,California,24334,725
+d102275,Colorado,7691,308
+d102276,Connecticut,13381,602
+d102277,Delaware,1761,41
+d102278,District of Columbia,1955,52
+d102279,Florida,21011,498
+d102280,Georgia,13125,479
+d102281,Guam,719,6
+d102282,Hawaii,502,9
+d102283,Idaho,1453,33
+d102284,Illinois,22025,800
+d102285,Indiana,8236,350
+d102286,Iowa,1710,44
+d102287,Kansas,1383,63
+d102288,Kentucky,2048,106
+d102289,Louisiana,21016,884
+d102290,Maine,698,19
+d102291,Maryland,8936,262
+d102292,Massachusetts,26867,844
+d102293,Michigan,25487,1601
+d102294,Minnesota,1650,70
+d102295,Mississippi,2942,98
+d102296,Missouri,4388,136
+d102297,Montana,394,7
+d102298,Nebraska,871,19
+d102299,Nevada,3036,114
+d102300,New Hampshire,1020,23
+d102301,New Jersey,64584,2443
+d102302,New Mexico,1345,31
+d102303,New York,195031,10056
+d102304,North Carolina,4788,91
+d102305,North Dakota,331,9
+d102306,Northern Mariana Islands,11,2
+d102307,Ohio,6975,274
+d102308,Oklahoma,2069,98
+d102309,Oregon,1584,53
+d102310,Pennsylvania,24295,563
+d102311,Puerto Rico,903,45
+d102312,Rhode Island,2976,73
+d102313,South Carolina,3439,87
+d102314,South Dakota,868,6
+d102315,Tennessee,5483,114
+d102316,Texas,14487,320
+d102317,Utah,2363,18
+d102318,Vermont,748,28
+d102319,Virgin Islands,51,1
+d102320,Virginia,5747,149
+d102321,Washington,10538,525
+d102322,West Virginia,638,9
+d102323,Wisconsin,3428,155
+d102324,Wyoming,275,1
+d102325,Alabama,3953,114
+d102326,Alaska,283,7
+d102327,Arizona,3806,131
+d102328,Arkansas,1498,32
+d102329,California,25758,778
+d102330,Colorado,7941,329
+d102331,Connecticut,13989,671
+d102332,Delaware,1926,43
+d102333,District of Columbia,2058,67
+d102334,Florida,21620,570
+d102335,Georgia,13913,517
+d102336,Guam,721,6
+d102337,Hawaii,511,9
+d102338,Idaho,1464,39
+d102339,Illinois,23247,878
+d102340,Indiana,8527,387
+d102341,Iowa,1899,44
+d102342,Kansas,1439,69
+d102343,Kentucky,2210,115
+d102344,Louisiana,21518,1013
+d102345,Maine,734,20
+d102346,Maryland,9472,302
+d102347,Massachusetts,28163,957
+d102348,Michigan,26844,1766
+d102349,Minnesota,1695,79
+d102350,Mississippi,3087,111
+d102351,Missouri,4686,151
+d102352,Montana,399,7
+d102353,Nebraska,931,21
+d102354,Nevada,3137,130
+d102355,New Hampshire,1091,27
+d102356,New Jersey,68824,2805
+d102357,New Mexico,1407,36
+d102358,New York,202208,10834
+d102359,North Carolina,4992,116
+d102360,North Dakota,341,9
+d102361,Northern Mariana Islands,13,2
+d102362,Ohio,7280,324
+d102363,Oklahoma,2184,109
+d102364,Oregon,1633,55
+d102365,Pennsylvania,25591,746
+d102366,Puerto Rico,923,45
+d102367,Rhode Island,3251,80
+d102368,South Carolina,3553,97
+d102369,South Dakota,988,6
+d102370,Tennessee,5654,123
+d102371,Texas,15303,365
+d102372,Utah,2418,19
+d102373,Vermont,752,29
+d102374,Virgin Islands,51,1
+d102375,Virginia,6171,154
+d102376,Washington,10694,552
+d102377,West Virginia,697,10
+d102378,Wisconsin,3555,172
+d102379,Wyoming,282,1
+d102380,Alabama,4241,123
+d102381,Alaska,291,7
+d102382,Arizona,3962,142
+d102383,Arkansas,1599,34
+d102384,California,27107,885
+d102385,Colorado,8280,355
+d102386,Connecticut,14755,868
+d102387,Delaware,2014,46
+d102388,District of Columbia,2197,72
+d102389,Florida,22526,613
+d102390,Georgia,14583,569
+d102391,Guam,750,6
+d102392,Hawaii,524,9
+d102393,Idaho,1507,41
+d102394,Illinois,24593,958
+d102395,Indiana,8955,436
+d102396,Iowa,1995,53
+d102397,Kansas,1502,76
+d102398,Kentucky,2295,124
+d102399,Louisiana,21951,1103
+d102400,Maine,770,24
+d102401,Maryland,10032,349
+d102402,Massachusetts,29918,1108
+d102403,Michigan,27893,1919
+d102404,Minnesota,1809,87
+d102405,Mississippi,3360,122
+d102406,Missouri,4895,164
+d102407,Montana,404,7
+d102408,Nebraska,995,22
+d102409,Nevada,3212,137
+d102410,New Hampshire,1139,32
+d102411,New Jersey,71030,3156
+d102412,New Mexico,1484,36
+d102413,New York,213779,11586
+d102414,North Carolina,5123,128
+d102415,North Dakota,365,9
+d102416,Northern Mariana Islands,13,2
+d102417,Ohio,7791,361
+d102418,Oklahoma,2263,123
+d102419,Oregon,1663,58
+d102420,Pennsylvania,26804,833
+d102421,Puerto Rico,974,51
+d102422,Rhode Island,3529,87
+d102423,South Carolina,3656,107
+d102424,South Dakota,1168,6
+d102425,Tennessee,5878,137
+d102426,Texas,16106,395
+d102427,Utah,2549,20
+d102428,Vermont,759,30
+d102429,Virgin Islands,51,1
+d102430,Virginia,6500,195
+d102431,Washington,10783,572
+d102432,West Virginia,725,12
+d102433,Wisconsin,3721,184
+d102434,Wyoming,288,2
+d102435,Alabama,4404,137
+d102436,Alaska,298,7
+d102437,Arizona,4234,152
+d102438,Arkansas,1620,37
+d102439,California,28142,971
+d102440,Colorado,8675,374
+d102441,Connecticut,15884,971
+d102442,Delaware,2075,52
+d102443,District of Columbia,2350,81
+d102444,Florida,23332,667
+d102445,Georgia,15644,611
+d102446,Guam,790,6
+d102447,Hawaii,535,9
+d102448,Idaho,1528,41
+d102449,Illinois,25734,1081
+d102450,Indiana,9542,477
+d102451,Iowa,2141,60
+d102452,Kansas,1594,80
+d102453,Kentucky,2429,131
+d102454,Louisiana,22532,1156
+d102455,Maine,796,27
+d102456,Maryland,10784,392
+d102457,Massachusetts,32181,1245
+d102458,Michigan,29119,2091
+d102459,Minnesota,1912,94
+d102460,Mississippi,3624,129
+d102461,Missouri,5111,170
+d102462,Montana,415,7
+d102463,Nebraska,1094,24
+d102464,Nevada,3321,142
+d102465,New Hampshire,1211,34
+d102466,New Jersey,75317,3518
+d102467,New Mexico,1597,44
+d102468,New York,222284,12192
+d102469,North Carolina,5463,140
+d102470,North Dakota,393,9
+d102471,Northern Mariana Islands,13,2
+d102472,Ohio,8414,389
+d102473,Oklahoma,2357,131
+d102474,Oregon,1736,64
+d102475,Pennsylvania,28314,864
+d102476,Puerto Rico,1043,56
+d102477,Rhode Island,3838,105
+d102478,South Carolina,3931,109
+d102479,South Dakota,1311,7
+d102480,Tennessee,6090,144
+d102481,Texas,16928,428
+d102482,Utah,2683,21
+d102483,Vermont,768,35
+d102484,Virgin Islands,51,1
+d102485,Virginia,6889,208
+d102486,Washington,11152,588
+d102487,West Virginia,739,13
+d102488,Wisconsin,3875,197
+d102489,Wyoming,296,2
+d102490,Alabama,4572,151
+d102491,Alaska,307,7
+d102492,Arizona,4507,174
+d102493,Arkansas,1695,37
+d102494,California,29398,1050
+d102495,Colorado,9047,389
+d102496,Connecticut,16809,1036
+d102497,Delaware,2323,61
+d102498,District of Columbia,2476,86
+d102499,Florida,24745,725
+d102500,Georgia,16658,661
+d102501,Guam,796,6
+d102502,Hawaii,547,9
+d102503,Idaho,1566,43
+d102504,Illinois,27575,1142
+d102505,Indiana,10154,519
+d102506,Iowa,2332,64
+d102507,Kansas,1731,84
+d102508,Kentucky,2522,139
+d102509,Louisiana,23118,1213
+d102510,Maine,827,29
+d102511,Maryland,11572,425
+d102512,Massachusetts,34402,1404
+d102513,Michigan,29952,2226
+d102514,Minnesota,2071,111
+d102515,Mississippi,3793,140
+d102516,Missouri,5283,184
+d102517,Montana,422,8
+d102518,Nebraska,1216,24
+d102519,Nevada,3524,151
+d102520,New Hampshire,1287,37
+d102521,New Jersey,78467,3840
+d102522,New Mexico,1711,51
+d102523,New York,229642,12822
+d102524,North Carolina,5859,159
+d102525,North Dakota,439,9
+d102526,Northern Mariana Islands,14,2
+d102527,Ohio,9107,418
+d102528,Oklahoma,2465,136
+d102529,Oregon,1785,70
+d102530,Pennsylvania,30121,1027
+d102531,Puerto Rico,1068,58
+d102532,Rhode Island,4177,118
+d102533,South Carolina,4086,116
+d102534,South Dakota,1411,7
+d102535,Tennessee,6438,150
+d102536,Texas,18131,461
+d102537,Utah,2813,23
+d102538,Vermont,779,35
+d102539,Virgin Islands,51,2
+d102540,Virginia,7491,238
+d102541,Washington,11445,610
+d102542,West Virginia,776,16
+d102543,Wisconsin,4045,205
+d102544,Wyoming,305,2
+d102545,Alabama,4723,147
+d102546,Alaska,312,7
+d102547,Arizona,4719,181
+d102548,Arkansas,1777,38
+d102549,California,30829,1146
+d102550,Colorado,9433,409
+d102551,Connecticut,17550,1086
+d102552,Delaware,2538,67
+d102553,District of Columbia,2666,91
+d102554,Florida,25484,747
+d102555,Georgia,17014,670
+d102556,Guam,805,6
+d102557,Hawaii,568,9
+d102558,Idaho,1577,44
+d102559,Illinois,29160,1272
+d102560,Indiana,10641,545
+d102561,Iowa,2513,74
+d102562,Kansas,1820,86
+d102563,Kentucky,2707,145
+d102564,Louisiana,23580,1267
+d102565,Maine,847,32
+d102566,Maryland,12308,463
+d102567,Massachusetts,36372,1560
+d102568,Michigan,30717,2307
+d102569,Minnesota,2213,121
+d102570,Mississippi,3974,152
+d102571,Missouri,5517,194
+d102572,Montana,426,10
+d102573,Nebraska,1348,28
+d102574,Nevada,3626,155
+d102575,New Hampshire,1342,38
+d102576,New Jersey,81420,4070
+d102577,New Mexico,1798,53
+d102578,New York,236763,13362
+d102579,North Carolina,6140,175
+d102580,North Dakota,528,9
+d102581,Northern Mariana Islands,14,2
+d102582,Ohio,10222,451
+d102583,Oklahoma,2570,139
+d102584,Oregon,1844,72
+d102585,Pennsylvania,31742,1150
+d102586,Puerto Rico,1118,60
+d102587,Rhode Island,4491,137
+d102588,South Carolina,4246,119
+d102589,South Dakota,1542,7
+d102590,Tennessee,6637,152
+d102591,Texas,18927,487
+d102592,Utah,2942,25
+d102593,Vermont,803,37
+d102594,Virgin Islands,53,3
+d102595,Virginia,8053,258
+d102596,Washington,11802,629
+d102597,West Virginia,825,18
+d102598,Wisconsin,4199,212
+d102599,Wyoming,309,2
+d102600,Alabama,4903,160
+d102601,Alaska,317,7
+d102602,Arizona,4929,188
+d102603,Arkansas,1781,39
+d102604,California,31544,1176
+d102605,Colorado,9730,421
+d102606,Connecticut,17962,1127
+d102607,Delaware,2538,67
+d102608,District of Columbia,2793,96
+d102609,Florida,26306,773
+d102610,Georgia,17619,682
+d102611,Guam,808,6
+d102612,Hawaii,574,10
+d102613,Idaho,1581,45
+d102614,Illinois,30357,1302
+d102615,Indiana,11210,562
+d102616,Iowa,2915,75
+d102617,Kansas,1898,94
+d102618,Kentucky,2960,149
+d102619,Louisiana,23928,1296
+d102620,Maine,867,34
+d102621,Maryland,12830,486
+d102622,Massachusetts,38077,1706
+d102623,Michigan,31348,2389
+d102624,Minnesota,2356,134
+d102625,Mississippi,4274,159
+d102626,Missouri,5667,196
+d102627,Montana,433,10
+d102628,Nebraska,1474,28
+d102629,Nevada,3741,158
+d102630,New Hampshire,1392,41
+d102631,New Jersey,85301,4202
+d102632,New Mexico,1845,55
+d102633,New York,242817,13869
+d102634,North Carolina,6493,183
+d102635,North Dakota,585,10
+d102636,Northern Mariana Islands,14,2
+d102637,Ohio,11602,471
+d102638,Oklahoma,2599,140
+d102639,Oregon,1910,74
+d102640,Pennsylvania,32992,1285
+d102641,Puerto Rico,1213,41
+d102642,Rhode Island,4706,150
+d102643,South Carolina,4377,120
+d102644,South Dakota,1635,7
+d102645,Tennessee,6845,156
+d102646,Texas,19441,503
+d102647,Utah,3071,27
+d102648,Vermont,812,37
+d102649,Virgin Islands,53,3
+d102650,Virginia,8537,277
+d102651,Washington,11805,637
+d102652,West Virginia,890,20
+d102653,Wisconsin,4346,222
+d102654,Wyoming,313,2
+d102655,Alabama,5078,164
+d102656,Alaska,319,7
+d102657,Arizona,5064,191
+d102658,Arkansas,1971,42
+d102659,California,33862,1223
+d102660,Colorado,10106,448
+d102661,Connecticut,19815,1331
+d102662,Delaware,2745,72
+d102663,District of Columbia,2927,105
+d102664,Florida,27050,822
+d102665,Georgia,18447,767
+d102666,Guam,811,6
+d102667,Hawaii,578,10
+d102668,Idaho,1638,48
+d102669,Illinois,31508,1359
+d102670,Indiana,11686,569
+d102671,Iowa,3175,79
+d102672,Kansas,2031,101
+d102673,Kentucky,3050,155
+d102674,Louisiana,24523,1328
+d102675,Maine,875,35
+d102676,Maryland,13684,516
+d102677,Massachusetts,39643,1809
+d102678,Michigan,31927,2466
+d102679,Minnesota,2470,143
+d102680,Mississippi,4512,169
+d102681,Missouri,5807,201
+d102682,Montana,433,12
+d102683,Nebraska,1648,33
+d102684,Nevada,3830,163
+d102685,New Hampshire,1447,42
+d102686,New Jersey,88806,4377
+d102687,New Mexico,1971,58
+d102688,New York,247543,14347
+d102689,North Carolina,6764,187
+d102690,North Dakota,627,13
+d102691,Northern Mariana Islands,14,2
+d102692,Ohio,12919,509
+d102693,Oklahoma,2680,143
+d102694,Oregon,1956,75
+d102695,Pennsylvania,34005,1366
+d102696,Puerto Rico,1252,42
+d102697,Rhode Island,5090,155
+d102698,South Carolina,4439,124
+d102699,South Dakota,1685,7
+d102700,Tennessee,7015,162
+d102701,Texas,20035,523
+d102702,Utah,3213,28
+d102703,Vermont,816,38
+d102704,Virgin Islands,54,3
+d102705,Virginia,8990,300
+d102706,Washington,12191,661
+d102707,West Virginia,908,26
+d102708,Wisconsin,4499,231
+d102709,Wyoming,317,2
+d102710,Alabama,5327,186
+d102711,Alaska,327,7
+d102712,Arizona,5251,213
+d102713,Arkansas,2262,43
+d102714,California,35844,1316
+d102715,Colorado,10447,484
+d102716,Connecticut,20360,1423
+d102717,Delaware,2931,82
+d102718,District of Columbia,3098,112
+d102719,Florida,27861,866
+d102720,Georgia,19189,810
+d102721,Guam,852,6
+d102722,Hawaii,580,12
+d102723,Idaho,1659,51
+d102724,Illinois,33059,1479
+d102725,Indiana,12097,630
+d102726,Iowa,3641,83
+d102727,Kansas,2115,107
+d102728,Kentucky,3193,172
+d102729,Louisiana,24854,1405
+d102730,Maine,888,36
+d102731,Maryland,14193,584
+d102732,Massachusetts,41199,1961
+d102733,Michigan,32935,2698
+d102734,Minnesota,2567,160
+d102735,Mississippi,4716,183
+d102736,Missouri,5941,221
+d102737,Montana,437,12
+d102738,Nebraska,1727,38
+d102739,Nevada,3937,163
+d102740,New Hampshire,1491,42
+d102741,New Jersey,92387,4753
+d102742,New Mexico,2072,65
+d102743,New York,251720,14828
+d102744,North Carolina,6951,217
+d102745,North Dakota,644,13
+d102746,Northern Mariana Islands,14,2
+d102747,Ohio,13725,557
+d102748,Oklahoma,2807,164
+d102749,Oregon,2002,78
+d102750,Pennsylvania,35384,1620
+d102751,Puerto Rico,915,43
+d102752,Rhode Island,5500,171
+d102753,South Carolina,4608,135
+d102754,South Dakota,1755,8
+d102755,Tennessee,7341,167
+d102756,Texas,20949,552
+d102757,Utah,3301,32
+d102758,Vermont,818,40
+d102759,Virgin Islands,54,3
+d102760,Virginia,9630,325
+d102761,Washington,12345,683
+d102762,West Virginia,929,26
+d102763,Wisconsin,4620,243
+d102764,Wyoming,322,6
+d102765,Alabama,5610,201
+d102766,Alaska,333,7
+d102767,Arizona,5459,236
+d102768,Arkansas,2392,44
+d102769,California,37573,1425
+d102770,Colorado,10878,526
+d102771,Connecticut,22469,1544
+d102772,Delaware,3200,89
+d102773,District of Columbia,3206,127
+d102774,Florida,28301,926
+d102775,Georgia,20099,837
+d102776,Guam,911,6
+d102777,Hawaii,586,12
+d102778,Idaho,1688,54
+d102779,Illinois,35108,1577
+d102780,Indiana,12438,661
+d102781,Iowa,3764,90
+d102782,Kansas,2292,111
+d102783,Kentucky,3373,185
+d102784,Louisiana,25258,1473
+d102785,Maine,907,39
+d102786,Maryland,14775,632
+d102787,Massachusetts,42944,2182
+d102788,Michigan,33929,2812
+d102789,Minnesota,2721,179
+d102790,Mississippi,4894,193
+d102791,Missouri,6137,236
+d102792,Montana,439,14
+d102793,Nebraska,1827,43
+d102794,Nevada,4081,187
+d102795,New Hampshire,1588,48
+d102796,New Jersey,95865,5063
+d102797,New Mexico,2210,71
+d102798,New York,257246,15302
+d102799,North Carolina,7220,242
+d102800,North Dakota,679,14
+d102801,Northern Mariana Islands,14,2
+d102802,Ohio,14117,610
+d102803,Oklahoma,2894,169
+d102804,Oregon,2059,78
+d102805,Pennsylvania,36763,1720
+d102806,Puerto Rico,915,46
+d102807,Rhode Island,5841,181
+d102808,South Carolina,4761,140
+d102809,South Dakota,1858,9
+d102810,Tennessee,7704,177
+d102811,Texas,21769,571
+d102812,Utah,3451,34
+d102813,Vermont,823,40
+d102814,Virgin Islands,54,3
+d102815,Virginia,10266,349
+d102816,Washington,12539,696
+d102817,West Virginia,939,29
+d102818,Wisconsin,4845,247
+d102819,Wyoming,326,6
+d102820,Alabama,5832,197
+d102821,Alaska,335,7
+d102822,Arizona,5769,257
+d102823,Arkansas,2599,45
+d102824,California,39534,1553
+d102825,Colorado,11262,557
+d102826,Connecticut,23100,1639
+d102827,Delaware,3308,92
+d102828,District of Columbia,3361,139
+d102829,Florida,29640,986
+d102830,Georgia,20905,871
+d102831,Guam,975,6
+d102832,Hawaii,590,12
+d102833,Idaho,1721,54
+d102834,Illinois,36935,1696
+d102835,Indiana,13039,706
+d102836,Iowa,3939,96
+d102837,Kansas,2615,112
+d102838,Kentucky,3548,194
+d102839,Louisiana,25739,1540
+d102840,Maine,937,44
+d102841,Maryland,15737,680
+d102842,Massachusetts,46023,2360
+d102843,Michigan,35252,2977
+d102844,Minnesota,2942,200
+d102845,Mississippi,5153,201
+d102846,Missouri,6321,248
+d102847,Montana,442,14
+d102848,Nebraska,2191,47
+d102849,Nevada,4208,195
+d102850,New Hampshire,1670,51
+d102851,New Jersey,99989,5368
+d102852,New Mexico,2379,78
+d102853,New York,263460,15740
+d102854,North Carolina,7608,253
+d102855,North Dakota,709,15
+d102856,Northern Mariana Islands,14,2
+d102857,Ohio,14694,656
+d102858,Oklahoma,3017,179
+d102859,Oregon,2127,83
+d102860,Pennsylvania,38334,1723
+d102861,Puerto Rico,1230,46
+d102862,Rhode Island,6256,189
+d102863,South Carolina,4917,150
+d102864,South Dakota,1956,9
+d102865,Tennessee,8230,180
+d102866,Texas,22706,601
+d102867,Utah,3621,35
+d102868,Vermont,825,43
+d102869,Virgin Islands,54,3
+d102870,Virginia,11000,375
+d102871,Washington,12906,717
+d102872,West Virginia,981,31
+d102873,Wisconsin,5052,257
+d102874,Wyoming,332,7
+d102875,Alabama,6026,209
+d102876,Alaska,337,7
+d102877,Arizona,6045,268
+d102878,Arkansas,2810,47
+d102879,California,41368,1619
+d102880,Colorado,12255,672
+d102881,Connecticut,23921,1764
+d102882,Delaware,3442,100
+d102883,District of Columbia,3528,153
+d102884,Florida,30525,1045
+d102885,Georgia,21575,889
+d102886,Guam,993,6
+d102887,Hawaii,595,13
+d102888,Idaho,1750,54
+d102889,Illinois,39658,1804
+d102890,Indiana,13680,741
+d102891,Iowa,4459,107
+d102892,Kansas,2830,117
+d102893,Kentucky,3779,203
+d102894,Louisiana,26140,1601
+d102895,Maine,965,47
+d102896,Maryland,16618,723
+d102897,Massachusetts,50969,2556
+d102898,Michigan,36627,3084
+d102899,Minnesota,3185,221
+d102900,Mississippi,5434,209
+d102901,Missouri,6625,267
+d102902,Montana,444,14
+d102903,Nebraska,2475,51
+d102904,Nevada,4398,203
+d102905,New Hampshire,1720,53
+d102906,New Jersey,102196,5617
+d102907,New Mexico,2524,84
+d102908,New York,271621,16162
+d102909,North Carolina,8052,270
+d102910,North Dakota,748,15
+d102911,Northern Mariana Islands,14,2
+d102912,Ohio,15169,690
+d102913,Oklahoma,3121,188
+d102914,Oregon,2177,86
+d102915,Pennsylvania,40298,1786
+d102916,Puerto Rico,1276,51
+d102917,Rhode Island,6699,202
+d102918,South Carolina,5070,157
+d102919,South Dakota,2040,10
+d102920,Tennessee,8679,180
+d102921,Texas,23650,625
+d102922,Utah,3782,39
+d102923,Vermont,827,44
+d102924,Virgin Islands,54,3
+d102925,Virginia,11596,413
+d102926,Washington,13120,731
+d102927,West Virginia,1010,32
+d102928,Wisconsin,5356,262
+d102929,Wyoming,349,7
+d102930,Alabama,6213,213
+d102931,Alaska,337,7
+d102932,Arizona,6280,275
+d102933,Arkansas,2909,48
+d102934,California,42590,1692
+d102935,Colorado,12968,670
+d102936,Connecticut,24582,1862
+d102937,Delaware,3576,112
+d102938,District of Columbia,3699,165
+d102939,Florida,30831,1054
+d102940,Georgia,22225,897
+d102941,Guam,993,6
+d102942,Hawaii,597,14
+d102943,Idaho,1760,56
+d102944,Illinois,41777,1884
+d102945,Indiana,14395,785
+d102946,Iowa,5109,112
+d102947,Kansas,3081,119
+d102948,Kentucky,3905,208
+d102949,Louisiana,26512,1644
+d102950,Maine,990,50
+d102951,Maryland,17766,797
+d102952,Massachusetts,53348,2730
+d102953,Michigan,37184,3273
+d102954,Minnesota,3446,244
+d102955,Mississippi,5718,221
+d102956,Missouri,6826,280
+d102957,Montana,445,14
+d102958,Nebraska,2902,53
+d102959,Nevada,4539,206
+d102960,New Hampshire,1793,60
+d102961,New Jersey,105523,5863
+d102962,New Mexico,2662,93
+d102963,New York,282174,16599
+d102964,North Carolina,8542,300
+d102965,North Dakota,803,16
+d102966,Northern Mariana Islands,14,2
+d102967,Ohio,15587,711
+d102968,Oklahoma,3193,194
+d102969,Oregon,2253,87
+d102970,Pennsylvania,41626,1842
+d102971,Puerto Rico,1307,52
+d102972,Rhode Island,7129,215
+d102973,South Carolina,5253,166
+d102974,South Dakota,2147,10
+d102975,Tennessee,8977,187
+d102976,Texas,24494,662
+d102977,Utah,3950,41
+d102978,Vermont,843,46
+d102979,Virgin Islands,55,3
+d102980,Virginia,12366,436
+d102981,Washington,13484,743
+d102982,West Virginia,1025,33
+d102983,Wisconsin,5687,266
+d102984,Wyoming,362,7
+d102985,Alabama,6421,219
+d102986,Alaska,339,7
+d102987,Arizona,6526,277
+d102988,Arkansas,3001,50
+d102989,California,43691,1716
+d102990,Colorado,13441,678
+d102991,Connecticut,25269,1925
+d102992,Delaware,4034,120
+d102993,District of Columbia,3841,178
+d102994,Florida,31520,1073
+d102995,Georgia,22459,907
+d102996,Guam,993,6
+d102997,Hawaii,599,14
+d102998,Idaho,1768,56
+d102999,Illinois,43903,1943
+d103000,Indiana,15012,813
+d103001,Iowa,5491,118
+d103002,Kansas,3188,120
+d103003,Kentucky,4074,211
+d103004,Louisiana,26773,1670
+d103005,Maine,1015,50
+d103006,Maryland,18581,827
+d103007,Massachusetts,54938,2899
+d103008,Michigan,37751,3314
+d103009,Minnesota,3602,272
+d103010,Mississippi,5911,227
+d103011,Missouri,6997,282
+d103012,Montana,448,14
+d103013,Nebraska,3126,55
+d103014,Nevada,4638,206
+d103015,New Hampshire,1864,60
+d103016,New Jersey,109038,5938
+d103017,New Mexico,2728,99
+d103018,New York,288076,16966
+d103019,North Carolina,8830,309
+d103020,North Dakota,867,17
+d103021,Northern Mariana Islands,14,2
+d103022,Ohio,15963,728
+d103023,Oklahoma,3253,195
+d103024,Oregon,2311,91
+d103025,Pennsylvania,42709,1871
+d103026,Puerto Rico,1371,53
+d103027,Rhode Island,7439,226
+d103028,South Carolina,5490,174
+d103029,South Dakota,2213,11
+d103030,Tennessee,9493,190
+d103031,Texas,25206,676
+d103032,Utah,4123,41
+d103033,Vermont,851,46
+d103034,Virgin Islands,57,4
+d103035,Virginia,12970,448
+d103036,Washington,13663,757
+d103037,West Virginia,1053,34
+d103038,Wisconsin,5911,274
+d103039,Wyoming,371,7
+d103040,Alabama,6539,228
+d103041,Alaska,343,7
+d103042,Arizona,6716,277
+d103043,Arkansas,3069,51
+d103044,California,45208,1800
+d103045,Colorado,13804,705
+d103046,Connecticut,25997,2012
+d103047,Delaware,4162,125
+d103048,District of Columbia,3892,185
+d103049,Florida,32130,1087
+d103050,Georgia,23229,981
+d103051,Guam,1000,6
+d103052,Hawaii,600,16
+d103053,Idaho,1785,58
+d103054,Illinois,45883,1992
+d103055,Indiana,15961,844
+d103056,Iowa,5868,127
+d103057,Kansas,3393,126
+d103058,Kentucky,4146,216
+d103059,Louisiana,27068,1697
+d103060,Maine,1023,51
+d103061,Maryland,19487,858
+d103062,Massachusetts,56462,3003
+d103063,Michigan,38190,3406
+d103064,Minnesota,3816,286
+d103065,Mississippi,6094,229
+d103066,Missouri,7171,296
+d103067,Montana,449,14
+d103068,Nebraska,3487,55
+d103069,Nevada,4708,219
+d103070,New Hampshire,1938,60
+d103071,New Jersey,111188,6044
+d103072,New Mexico,2825,104
+d103073,New York,292027,17303
+d103074,North Carolina,9142,331
+d103075,North Dakota,942,19
+d103076,Northern Mariana Islands,14,2
+d103077,Ohio,16325,753
+d103078,Oklahoma,3280,197
+d103079,Oregon,2354,92
+d103080,Pennsylvania,43728,1946
+d103081,Puerto Rico,1388,53
+d103082,Rhode Island,7708,233
+d103083,South Carolina,5613,177
+d103084,South Dakota,2246,11
+d103085,Tennessee,9796,192
+d103086,Texas,25960,699
+d103087,Utah,4236,41
+d103088,Vermont,855,47
+d103089,Virgin Islands,59,4
+d103090,Virginia,13535,458
+d103091,Washington,13864,771
+d103092,West Virginia,1077,37
+d103093,Wisconsin,6081,281
+d103094,Wyoming,389,7

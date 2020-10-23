@@ -1,0 +1,44 @@
+/**
+ * conclusions.txt
+ *
+ * Author: Ishaan Backliwal
+ * Due Date: 03/26/2020
+ * Project Name: P3b
+ * Email: backliwal@wisc.edu
+ * 
+ * Course: CS400
+ * Semester: Spring 2020
+ * Lecture: 001
+ */
+p3b CONCLUSIONS.TXT
+
+Complete p3b and answer the following questions using results of running JDK Mission Control to justify your conclusions..
+
+1) What can you tell about the performance of your hash table implementation compared to Java's tree map? 
+Explain why (or when) your hash table is better or worse than Java's Tree Map.
+	Compared  to the Tree Map, my Hash Table is much worse at insert in terms of 
+	performance and much better at retrieval. 
+	
+2) What did you observe in jdk mission control to come to the conclusion above?
+	The cycle count for Tree Map's put() method was much lower (1602) than my 
+	Hash Table's (3042), making it more efficient. 
+	On the other hand, the Tree Map's getEntry() method was higher (7) than my 
+	Hash Table's (1), making it less efficient.
+	An overall comparison of memory brings me to the conclusion that in terms of
+	memory allocation, both the HashTable and the TreeMap are similar. The
+	HashTable class uses 481 MiB while the TreeMap class uses 437 MiB.
+
+3) SCREENSHOT_001.PNG NOTES: Briefly describe what this image 001 shows
+	This screenshot shows the stack trace. It outlines the count values for each
+	process that was run. Why this is of importance to me is that is shows the 
+	count values for both my Hash Table's and the Tree Map's retrieval and
+	insertion methods, which I can use to compare efficiency.
+	
+4) SCREENSHOT_002.PNG NOTES: Briefly describe what this image 002 shows
+	This second screenshot is of the amount of memory allocated to each class.
+	It shows the allocation of memory for both the HashTable and TreeMap classes
+	and allows for an easy comparison between the two with a set of values 
+	provided on the leftmost column of the table. 
+
+5) Describe other screenshots if you include them in your submission.
+	n/a

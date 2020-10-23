@@ -1,0 +1,201 @@
+Author: Ishaan Backliwal 
+Email: backliwal@wisc.edu 
+Lecture #: 001
+
+---------------------------------------------
+      Welcome to TENNIS SIMULATOR 2020!      
+---------------------------------------------
+This program simulates a 10-point tennis match.
+To begin, submit a file with player stats.
+***File in the system: N/A***
+
+(1) File formatting info
+(2) Sumbit player stats file
+(3) Print new stats file
+(4) Start match
+(5) Quit
+1
+----------------------------------------------------------------------------------------------
+(Press ENTER key to return to main menu)
+The following is how your file should be formatted in order for the program to run properly:
+
+P1 Name: FIRST LAST
+P1 Record: MATHES WON - MATCHES LOST
+P1 Ranking: INTEGER VALUE RANKING
+
+P2 Name: FIRST LAST
+P2 Record: MATHES WON - MATCHES LOST
+P2 Ranking: INTEGER VALUE RANKING
+----------------------------------------------------------------------------------------------
+
+---------------------------------------------
+      Welcome to TENNIS SIMULATOR 2020!      
+---------------------------------------------
+This program simulates a 10-point tennis match.
+To begin, submit a file with player stats.
+***File in the system: N/A***
+
+(1) File formatting info
+(2) Sumbit player stats file
+(3) Print new stats file
+(4) Start match
+(5) Quit
+2
+--------------------------------
+     File Sumbission Portal
+--------------------------------
+Input the file name:
+(ex: 'input.txt')
+input.txt
+---------------------------------------------
+      Welcome to TENNIS SIMULATOR 2020!      
+---------------------------------------------
+This program simulates a 10-point tennis match.
+To begin, submit a file with player stats.
+***File in the system: input.txt***
+
+(1) File formatting info
+(2) Sumbit player stats file
+(3) Print new stats file
+(4) Start match
+(5) Quit
+4
+---------------------------------------------
+            SIMULATION STARTED
+---------------------------------------------
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 0
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 1
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 2
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 3
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 4
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 5
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 6
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 7
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 8
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+~ ~ ~ S C O R E ~ ~ ~
+Federer: 9
+Nadal: 0
+---------------------------------------------
+
+(1) Point Federer
+(2) Point Nadal
+(3) Quit to Main Menu
+1
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+CONGRAGULATIONS!!!
+Rodger Federer has won!
+(press ENTER to return to main menu)
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+
+---------------------------------------------
+      Welcome to TENNIS SIMULATOR 2020!      
+---------------------------------------------
+This program simulates a 10-point tennis match.
+To begin, submit a file with player stats.
+***File in the system: input.txt***
+
+(1) File formatting info
+(2) Sumbit player stats file
+(3) Print new stats file
+(4) Start match
+(5) Quit
+3
+------------------------------------------------
+File 'output.txt' has successfully been created!
+     (press ENTER to return to main menu)
+------------------------------------------------
+
+---------------------------------------------
+      Welcome to TENNIS SIMULATOR 2020!      
+---------------------------------------------
+This program simulates a 10-point tennis match.
+To begin, submit a file with player stats.
+***File in the system: input.txt***
+***File 'output.txt' has been created***
+
+(1) File formatting info
+(2) Sumbit player stats file
+(3) Print new stats file
+(4) Start match
+(5) Quit
+5
+---------------------------------------------
+Thank you for playing TENNIS SIMULATOR 2020
+             Have a nice day!
+---------------------------------------------

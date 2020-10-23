@@ -1,0 +1,84 @@
+Alabama,947,11
+Top One
+Michigan,31348,2389
+
+Top Three
+Michigan,31348,2389
+Massachusetts,29918,1108
+Louisiana,25739,1540
+
+Top Five
+Michigan,31348,2389
+Massachusetts,29918,1108
+Louisiana,25739,1540
+Florida,23332,667
+New Jersey,22255,355
+
+Top Ten
+Michigan,31348,2389
+Massachusetts,29918,1108
+Louisiana,25739,1540
+Florida,23332,667
+New Jersey,22255,355
+Maryland,15737,680
+Virginia,12366,436
+Georgia,7558,294
+Colorado,6893,274
+Missouri,4388,136
+
+All States
+Michigan,31348,2389
+Massachusetts,29918,1108
+Louisiana,25739,1540
+Florida,23332,667
+New Jersey,22255,355
+Maryland,15737,680
+Virginia,12366,436
+Georgia,7558,294
+Colorado,6893,274
+Missouri,4388,136
+Kentucky,2960,149
+New Mexico,2379,78
+Oregon,2002,78
+Iowa,1995,53
+Delaware,1761,41
+Utah,1605,8
+Idaho,1528,41
+Indiana,1232,31
+Oklahoma,1159,42
+Puerto Rico,974,51
+Alabama,947,11
+Minnesota,742,18
+Guam,721,6
+West Virginia,638,9
+Nevada,315,6
+South Carolina,299,5
+North Dakota,293,7
+Connecticut,223,5
+New Hampshire,214,2
+Alaska,156,2
+Pennsylvania,139,1
+Wyoming,95,0
+Hawaii,77,0
+Ohio,67,0
+Maine,57,0
+Virgin Islands,51,1
+District of Columbia,36,0
+Tennessee,26,0
+Rhode Island,20,0
+Arkansas,16,0
+Northern Mariana Islands,14,2
+South Dakota,14,1
+Texas,12,0
+Nebraska,11,0
+Mississippi,10,0
+California,7,0
+Montana,6,0
+Illinois,2,0
+New York,2,0
+Vermont,2,0
+Arizona,1,0
+Kansas,1,0
+North Carolina,1,0
+Washington,1,0
+Wisconsin,1,0
